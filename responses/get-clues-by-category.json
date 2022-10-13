@@ -1,0 +1,3907 @@
+{
+  "id": 1,
+  "title": "u.s. cities",
+  "clues_count": 390,
+  "clues": [
+    {
+      "id": 1,
+      "answer": "Los Angeles",
+      "question": "It recently moved ahead of Chicago to become our 2nd largest",
+      "value": 100,
+      "airdate": "1985-04-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7072,
+      "invalid_count": null
+    },
+    {
+      "id": 5,
+      "answer": "Buffalo",
+      "question": "There's no evidence that bison ever grazed in vicinity of this second largest NY city",
+      "value": 200,
+      "airdate": "1985-04-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7072,
+      "invalid_count": null
+    },
+    {
+      "id": 9,
+      "answer": "New York City",
+      "question": "It has more Italians than Venice, more Irish than Dublin & more Jews than Jerusalem",
+      "value": 300,
+      "airdate": "1985-04-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7072,
+      "invalid_count": null
+    },
+    {
+      "id": 13,
+      "answer": "Jacksonville",
+      "question": "Florida's largest city, it's named after our 7th president",
+      "value": 400,
+      "airdate": "1985-04-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7072,
+      "invalid_count": null
+    },
+    {
+      "id": 17,
+      "answer": "the Capitol",
+      "question": "The mapmakers' lines which divide Washington, D.C. into 4 sections converge at this building",
+      "value": 500,
+      "airdate": "1985-04-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7072,
+      "invalid_count": null
+    },
+    {
+      "id": 435,
+      "answer": "Anchorage",
+      "question": "Alaskan city renamed this because ships docked there",
+      "value": 100,
+      "airdate": "1984-12-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4249,
+      "invalid_count": null
+    },
+    {
+      "id": 441,
+      "answer": "Pueblo",
+      "question": "Colorado city whose name means \"town\" in Spanish",
+      "value": 200,
+      "airdate": "1984-12-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4249,
+      "invalid_count": null
+    },
+    {
+      "id": 447,
+      "answer": "Buffalo",
+      "question": "The city of Niagara Falls is its largest suburb",
+      "value": 300,
+      "airdate": "1984-12-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4249,
+      "invalid_count": null
+    },
+    {
+      "id": 452,
+      "answer": "Fargo",
+      "question": "Known for manufacturing grain silos, it's North Dakota's largest city",
+      "value": 400,
+      "airdate": "1984-12-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4249,
+      "invalid_count": null
+    },
+    {
+      "id": 457,
+      "answer": "Lubbock, Texas",
+      "question": "\"Hub of the high plains\" Mac Davis saw it in his rearview mirror",
+      "value": null,
+      "airdate": "1984-12-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4249,
+      "invalid_count": null
+    },
+    {
+      "id": 3148,
+      "answer": "St. Louis",
+      "question": "Ice cream cones & iced tea were both introduced at this Missouri city's 1904 world's fair",
+      "value": 100,
+      "airdate": "1985-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 251,
+      "invalid_count": null
+    },
+    {
+      "id": 3154,
+      "answer": "Florida",
+      "question": "This Hollywood features dog racing & a beach boardwalk",
+      "value": 200,
+      "airdate": "1985-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 251,
+      "invalid_count": null
+    },
+    {
+      "id": 3160,
+      "answer": "South Carolina",
+      "question": "Columbia, capital of this southern state, had no paved roads until 1908",
+      "value": 300,
+      "airdate": "1985-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 251,
+      "invalid_count": null
+    },
+    {
+      "id": 3166,
+      "answer": "Colorado Springs",
+      "question": "\"Home\" of the Air Force Academy, it has over 300 days of sunshine yearly",
+      "value": 400,
+      "airdate": "1985-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 251,
+      "invalid_count": null
+    },
+    {
+      "id": 3172,
+      "answer": "Virginia Beach",
+      "question": "During WWI, Germany torpedoed U.S. ships within sight of this, Virginia's largest resort",
+      "value": 500,
+      "airdate": "1985-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 251,
+      "invalid_count": null
+    },
+    {
+      "id": 9145,
+      "answer": "Philadelphia",
+      "question": "The headquarters for Big Brothers is in this city known for that type of love",
+      "value": 100,
+      "airdate": "1988-03-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4733,
+      "invalid_count": null
+    },
+    {
+      "id": 9151,
+      "answer": "Scottsdale",
+      "question": "This city north of Phoenix was founded in 1895 by a man named Winfield Scott",
+      "value": 200,
+      "airdate": "1988-03-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4733,
+      "invalid_count": null
+    },
+    {
+      "id": 9157,
+      "answer": "Juneau",
+      "question": "Residents of this state capital refer to the older U.S. states as \"the lower 48\"",
+      "value": 300,
+      "airdate": "1988-03-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4733,
+      "invalid_count": null
+    },
+    {
+      "id": 9163,
+      "answer": "Terre Haute",
+      "question": "The name of this Indiana city is French for \"high land\"",
+      "value": 400,
+      "airdate": "1988-03-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4733,
+      "invalid_count": null
+    },
+    {
+      "id": 9169,
+      "answer": "Elizabeth",
+      "question": "Thought it's the oldest English settlement in New Jersey, it wasn't named for an old English queen",
+      "value": 500,
+      "airdate": "1988-03-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4733,
+      "invalid_count": null
+    },
+    {
+      "id": 10345,
+      "answer": "Connecticut",
+      "question": "New Britain, New London & New Haven are all in this state",
+      "value": 100,
+      "airdate": "1987-12-31T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4643,
+      "invalid_count": null
+    },
+    {
+      "id": 10351,
+      "answer": "Mobile",
+      "question": "Alabama seaport where you'll find world's largest plant for grinding oyster shells",
+      "value": 200,
+      "airdate": "1987-12-31T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4643,
+      "invalid_count": null
+    },
+    {
+      "id": 10356,
+      "answer": "Odessa",
+      "question": "Russian immigrants nostalgically named this Texas city for a large seaport in the Ukraine",
+      "value": 300,
+      "airdate": "1987-12-31T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4643,
+      "invalid_count": null
+    },
+    {
+      "id": 10360,
+      "answer": "Rochester, Minnesota",
+      "question": "In 1889, the Sisters of St. Francis built a hospital for Dr. Wm. Mayo to administer in this city",
+      "value": 400,
+      "airdate": "1987-12-31T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4643,
+      "invalid_count": null
+    },
+    {
+      "id": 10366,
+      "answer": "Boston, Massachusetts",
+      "question": "State capital in which the following Kingston Trio song takes place:\"Now, all night long Charlie rides through the station /Crying, 'What will become of me? /How can I afford...'\"",
+      "value": null,
+      "airdate": "1987-12-31T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4643,
+      "invalid_count": null
+    },
+    {
+      "id": 11405,
+      "answer": "Santa Barbara",
+      "question": "Dateline on news items from the Reagan Ranch",
+      "value": 100,
+      "airdate": "1987-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4593,
+      "invalid_count": null
+    },
+    {
+      "id": 11411,
+      "answer": "John Hancock",
+      "question": "Tallest building in Boston is named for this 1st elected governor of state of Massachusetts",
+      "value": 200,
+      "airdate": "1987-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4593,
+      "invalid_count": null
+    },
+    {
+      "id": 11416,
+      "answer": "Little Havana",
+      "question": "Calle Ocho is the main street of the section of Miami frequently called this",
+      "value": 300,
+      "airdate": "1987-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4593,
+      "invalid_count": null
+    },
+    {
+      "id": 11421,
+      "answer": "Preservation Hall",
+      "question": "New Orleans jazz legends play nightly in this legendary structure at 726 St. Peter St.",
+      "value": 400,
+      "airdate": "1987-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4593,
+      "invalid_count": null
+    },
+    {
+      "id": 11427,
+      "answer": "United States, France & Spain",
+      "question": "Flags of these 3 countries have legally flown over St. Louis",
+      "value": null,
+      "airdate": "1987-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4593,
+      "invalid_count": null
+    },
+    {
+      "id": 11779,
+      "answer": "Mormons",
+      "question": "This group not only founded Salt Lake City, but also Mesa, Arizona",
+      "value": 100,
+      "airdate": "1987-10-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5665,
+      "invalid_count": null
+    },
+    {
+      "id": 11785,
+      "answer": "Los Angeles",
+      "question": "It's been called \"40 suburbs in search of a city\", \"Smogville\", & \"La-La Land\"",
+      "value": 200,
+      "airdate": "1987-10-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5665,
+      "invalid_count": null
+    },
+    {
+      "id": 11791,
+      "answer": "Concord",
+      "question": "New England city in which about 1850, Ephraim W. Bull developed a popular table grape",
+      "value": 300,
+      "airdate": "1987-10-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5665,
+      "invalid_count": null
+    },
+    {
+      "id": 11796,
+      "answer": "Louisiana",
+      "question": "State which includes a port city named for co-founder Henry M. Shreve",
+      "value": 400,
+      "airdate": "1987-10-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5665,
+      "invalid_count": null
+    },
+    {
+      "id": 11801,
+      "answer": "Winston-Salem",
+      "question": "Oldest surviving tobacco shop in U.S. is in this city for which 2 brands of cigarettes were named",
+      "value": 500,
+      "airdate": "1987-10-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5665,
+      "invalid_count": null
+    },
+    {
+      "id": 13350,
+      "answer": "Juneau",
+      "question": "Covering 3,108 square miles, this Alaskan capital is the nation's largest in area",
+      "value": 100,
+      "airdate": "1989-03-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5659,
+      "invalid_count": null
+    },
+    {
+      "id": 13356,
+      "answer": "Knoxville",
+      "question": "\"Energy Turns the World\" was the theme of the 1982 World's Fair held in this Tennessee city",
+      "value": null,
+      "airdate": "1989-03-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5659,
+      "invalid_count": null
+    },
+    {
+      "id": 13362,
+      "answer": "Albany",
+      "question": "The New York State Museum, the nation's oldest state museum, is located in this city",
+      "value": 300,
+      "airdate": "1989-03-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5659,
+      "invalid_count": null
+    },
+    {
+      "id": 13368,
+      "answer": "Fargo",
+      "question": "North Dakota's largest city, it was named for one of the founders of a famous frontier stage line",
+      "value": 400,
+      "airdate": "1989-03-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5659,
+      "invalid_count": null
+    },
+    {
+      "id": 13374,
+      "answer": "Tucson",
+      "question": "This Arizona university town has been called the \"Astronomy Capital of the World\"",
+      "value": 500,
+      "airdate": "1989-03-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5659,
+      "invalid_count": null
+    },
+    {
+      "id": 13464,
+      "answer": "Washington, D.C.",
+      "question": "This city is situated at the junction of the Anacostia & Potomac Rivers",
+      "value": 100,
+      "airdate": "1989-03-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4960,
+      "invalid_count": null
+    },
+    {
+      "id": 13470,
+      "answer": "Philadelphia",
+      "question": "City in which you'd see the  Franklin Parkway, Franklin Bridge & Franklin Institute",
+      "value": 200,
+      "airdate": "1989-03-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4960,
+      "invalid_count": null
+    },
+    {
+      "id": 13476,
+      "answer": "San Francisco",
+      "question": "It took 3 days to extinguish the 1906 fire that burned 512 blocks of this city",
+      "value": 300,
+      "airdate": "1989-03-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4960,
+      "invalid_count": null
+    },
+    {
+      "id": 13481,
+      "answer": "Independence",
+      "question": "This Missouri city Harry Truman called home was named for one of Andrew Jackson's ideals",
+      "value": 400,
+      "airdate": "1989-03-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4960,
+      "invalid_count": null
+    },
+    {
+      "id": 13486,
+      "answer": "Chicago",
+      "question": "McCormick Place, this city's convention center, has 162 million square feet of space on 4 levels",
+      "value": 500,
+      "airdate": "1989-03-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4960,
+      "invalid_count": null
+    },
+    {
+      "id": 14245,
+      "answer": "Tampa, Florida",
+      "question": "St. Petersburg's \"twin city\"; it was named for the bay which was named for an Indian village",
+      "value": 100,
+      "airdate": "1989-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4942,
+      "invalid_count": null
+    },
+    {
+      "id": 14251,
+      "answer": "Madison",
+      "question": "This Wisconsin city was established in 1836 & named for the ex-president who died that year",
+      "value": 200,
+      "airdate": "1989-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4942,
+      "invalid_count": null
+    },
+    {
+      "id": 14257,
+      "answer": "Irving, Texas",
+      "question": "The Dallas Cowboys play their home games in this city",
+      "value": 300,
+      "airdate": "1989-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4942,
+      "invalid_count": null
+    },
+    {
+      "id": 14263,
+      "answer": "Winston-Salem",
+      "question": "This North Carolina city celebrated the 75th anniversary of its hyphen in 1988",
+      "value": 400,
+      "airdate": "1989-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4942,
+      "invalid_count": null
+    },
+    {
+      "id": 14269,
+      "answer": "Eureka",
+      "question": "Only city whose name appears on the state seal of California; it's the state motto",
+      "value": 500,
+      "airdate": "1989-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4942,
+      "invalid_count": null
+    },
+    {
+      "id": 14383,
+      "answer": "Dallas",
+      "question": "Natives of this Texas city often refer to it as \"The Big D\"",
+      "value": 100,
+      "airdate": "1989-01-16T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5023,
+      "invalid_count": null
+    },
+    {
+      "id": 14389,
+      "answer": "Mobile",
+      "question": "It's Alabama's only seaport",
+      "value": 200,
+      "airdate": "1989-01-16T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5023,
+      "invalid_count": null
+    },
+    {
+      "id": 14395,
+      "answer": "Carson City",
+      "question": "U.S. coins with the mint mark \"CC\" were made in this Nevada city from 1870-93",
+      "value": 300,
+      "airdate": "1989-01-16T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5023,
+      "invalid_count": null
+    },
+    {
+      "id": 14401,
+      "answer": "Tacoma",
+      "question": "The Indian name for Mt. Rainier, it became the name of a city 40 miles away",
+      "value": 400,
+      "airdate": "1989-01-16T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5023,
+      "invalid_count": null
+    },
+    {
+      "id": 14407,
+      "answer": "St. Joseph",
+      "question": "The Pony Express began operating & Walter Cronkite began life in this Missouri city",
+      "value": 500,
+      "airdate": "1989-01-16T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5023,
+      "invalid_count": null
+    },
+    {
+      "id": 14441,
+      "answer": "Fort Wayne",
+      "question": "Johnny Appleseed's grave is in this Indiana city that began as a fort",
+      "value": 100,
+      "airdate": "1989-01-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5000,
+      "invalid_count": null
+    },
+    {
+      "id": 14447,
+      "answer": "New Jersey",
+      "question": "The city of West New York is in this state",
+      "value": 200,
+      "airdate": "1989-01-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5000,
+      "invalid_count": null
+    },
+    {
+      "id": 14453,
+      "answer": "Pittsburgh",
+      "question": "City whose \"Golden Triangle\" is formed by the Allegheny & Monongahela Rivers",
+      "value": 300,
+      "airdate": "1989-01-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5000,
+      "invalid_count": null
+    },
+    {
+      "id": 14459,
+      "answer": "Dodge City",
+      "question": "In the late 19th century some called this Kansas cow town \"The Wickedest Little City in America\"",
+      "value": 400,
+      "airdate": "1989-01-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5000,
+      "invalid_count": null
+    },
+    {
+      "id": 14465,
+      "answer": "Phoenix",
+      "question": "City in the title of the following song, Glen Campbell's 1st Top 40 hit:\"By the time I make Oklahoma /She'll be sleeping...\"",
+      "value": null,
+      "airdate": "1989-01-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5000,
+      "invalid_count": null
+    },
+    {
+      "id": 14556,
+      "answer": "=",
+      "question": "=",
+      "value": 100,
+      "airdate": "1989-01-06T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6083,
+      "invalid_count": null
+    },
+    {
+      "id": 14562,
+      "answer": "=",
+      "question": "=",
+      "value": 200,
+      "airdate": "1989-01-06T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6083,
+      "invalid_count": null
+    },
+    {
+      "id": 14568,
+      "answer": "=",
+      "question": "=",
+      "value": 300,
+      "airdate": "1989-01-06T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6083,
+      "invalid_count": null
+    },
+    {
+      "id": 14574,
+      "answer": "=",
+      "question": "=",
+      "value": 400,
+      "airdate": "1989-01-06T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6083,
+      "invalid_count": null
+    },
+    {
+      "id": 14580,
+      "answer": "=",
+      "question": "=",
+      "value": 500,
+      "airdate": "1989-01-06T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6083,
+      "invalid_count": null
+    },
+    {
+      "id": 19569,
+      "answer": "Washington, D.C.",
+      "question": "This city's tidal basin is ringed by some 3,000 Yoshino cherry trees donated by the mayor of Tokyo in 1912",
+      "value": 100,
+      "airdate": "1989-12-07T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3603,
+      "invalid_count": null
+    },
+    {
+      "id": 19575,
+      "answer": "New Orleans",
+      "question": "The final battle of the War of 1812 was fought in 1815 in & around this city",
+      "value": 200,
+      "airdate": "1989-12-07T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3603,
+      "invalid_count": null
+    },
+    {
+      "id": 19581,
+      "answer": "Augusta",
+      "question": "This Georgia city is the site of the Masters golf tournament",
+      "value": 300,
+      "airdate": "1989-12-07T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3603,
+      "invalid_count": null
+    },
+    {
+      "id": 19587,
+      "answer": "Saint Paul",
+      "question": "In 1805 Zebulon Pike bought land from the Sioux that's now this Minnesota capital",
+      "value": 400,
+      "airdate": "1989-12-07T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3603,
+      "invalid_count": null
+    },
+    {
+      "id": 19593,
+      "answer": "Miami",
+      "question": "This Southern city's Herald prints a separate newspaper in Spanish",
+      "value": 500,
+      "airdate": "1989-12-07T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3603,
+      "invalid_count": null
+    },
+    {
+      "id": 20364,
+      "answer": "Little Rock",
+      "question": "State capital named for a stone outcrop on the Arkansas River downstream from \"Big Rock\"",
+      "value": 100,
+      "airdate": "1989-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5034,
+      "invalid_count": null
+    },
+    {
+      "id": 20370,
+      "answer": "Portland",
+      "question": "Situated on the Willamette River, this largest Oregon city lies between Mt. Hood & the Pacific",
+      "value": 200,
+      "airdate": "1989-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5034,
+      "invalid_count": null
+    },
+    {
+      "id": 20376,
+      "answer": "Amarillo",
+      "question": "This city whose name means \"yellow\" is the largest city in the Texas panhandle",
+      "value": 300,
+      "airdate": "1989-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5034,
+      "invalid_count": null
+    },
+    {
+      "id": 20382,
+      "answer": "Atlanta",
+      "question": "The U.S. Forest Service says this southeast hub city is the most densely wooden metropolitan area in the U.S.",
+      "value": 400,
+      "airdate": "1989-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5034,
+      "invalid_count": null
+    },
+    {
+      "id": 20388,
+      "answer": "Connecticut",
+      "question": "In 1954, the 1st atomic-power sub, the Nautilus, was launched at Groton in this state",
+      "value": 500,
+      "airdate": "1989-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5034,
+      "invalid_count": null
+    },
+    {
+      "id": 20886,
+      "answer": "Boston",
+      "question": "Built in 1742, Faneuil Hall was & still is a famous meeting place in this city",
+      "value": 100,
+      "airdate": "1989-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4820,
+      "invalid_count": null
+    },
+    {
+      "id": 20892,
+      "answer": "Chicago",
+      "question": "Richard M. Daley, son of Richard J. Daley, was elected mayor of this city in 1989",
+      "value": 200,
+      "airdate": "1989-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4820,
+      "invalid_count": null
+    },
+    {
+      "id": 20898,
+      "answer": "Las Vegas",
+      "question": "Odds are you'll know this city has more unlisted numbers per capita than any other",
+      "value": 300,
+      "airdate": "1989-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4820,
+      "invalid_count": null
+    },
+    {
+      "id": 20904,
+      "answer": "Honolulu",
+      "question": "This state capital, whose name means \"protected bay\", extends to the foothills of the Koolau Mountains",
+      "value": 400,
+      "airdate": "1989-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4820,
+      "invalid_count": null
+    },
+    {
+      "id": 20910,
+      "answer": "Los Angeles and New York",
+      "question": "Among the ten largest U.S. cities in population, these 2 are farthest apart",
+      "value": 500,
+      "airdate": "1989-10-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4820,
+      "invalid_count": null
+    },
+    {
+      "id": 21269,
+      "answer": "Louisville",
+      "question": "Founded by George Rogers Clark in 1778, this Kentucky city was named for a French monarch",
+      "value": 100,
+      "airdate": "1991-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2585,
+      "invalid_count": null
+    },
+    {
+      "id": 21275,
+      "answer": "Reno",
+      "question": "This Nevada city calls itself \"the biggest little city in the world\"",
+      "value": 200,
+      "airdate": "1991-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2585,
+      "invalid_count": null
+    },
+    {
+      "id": 21281,
+      "answer": "Norfolk",
+      "question": "This Virginia port is headquarters for the Navy's Atlantic fleet",
+      "value": 300,
+      "airdate": "1991-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2585,
+      "invalid_count": null
+    },
+    {
+      "id": 21287,
+      "answer": "St. Augustine(, Florida)",
+      "question": "It's \"the nation's oldest city\"",
+      "value": 400,
+      "airdate": "1991-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2585,
+      "invalid_count": null
+    },
+    {
+      "id": 21293,
+      "answer": "Wichita",
+      "question": "This largest city in Kansas is the world's top producer of general aviation aircraft",
+      "value": 500,
+      "airdate": "1991-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2585,
+      "invalid_count": null
+    },
+    {
+      "id": 23208,
+      "answer": "Chicago",
+      "question": "In 1982 this \"Second City\" dropped to No. 3 in population",
+      "value": 100,
+      "airdate": "1991-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6918,
+      "invalid_count": null
+    },
+    {
+      "id": 23214,
+      "answer": "Louisville",
+      "question": "The largest city in Kentucky, it was named for the husband of Marie Antoinette",
+      "value": 200,
+      "airdate": "1991-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6918,
+      "invalid_count": null
+    },
+    {
+      "id": 23220,
+      "answer": "Georgia",
+      "question": "A city named Augusta is now Maine's capital; 200 years ago a city named Augusta was this state's capital",
+      "value": 300,
+      "airdate": "1991-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6918,
+      "invalid_count": null
+    },
+    {
+      "id": 23226,
+      "answer": "Philadelphia",
+      "question": "Germantown in this city was the site of the 1st Mennonite & Lutheran churches in the U.S.",
+      "value": null,
+      "airdate": "1991-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6918,
+      "invalid_count": null
+    },
+    {
+      "id": 23232,
+      "answer": "Jacksonville",
+      "question": "This city named for a president is Florida's largest",
+      "value": 500,
+      "airdate": "1991-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6918,
+      "invalid_count": null
+    },
+    {
+      "id": 23448,
+      "answer": "Tucson",
+      "question": "The Papago Indians called this home of the university of Arizona \"Stjukshon\"",
+      "value": 100,
+      "airdate": "1990-12-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7069,
+      "invalid_count": null
+    },
+    {
+      "id": 23454,
+      "answer": "Columbia",
+      "question": "In 1790 this city replaced Charleston South Carolina's capital",
+      "value": 200,
+      "airdate": "1990-12-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7069,
+      "invalid_count": null
+    },
+    {
+      "id": 23460,
+      "answer": "Detroit",
+      "question": "This metropolitan city has major expressways named Edsel Ford & Chrysler",
+      "value": 300,
+      "airdate": "1990-12-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7069,
+      "invalid_count": null
+    },
+    {
+      "id": 23466,
+      "answer": "New Orleans",
+      "question": "\"The Big Easy\"",
+      "value": 400,
+      "airdate": "1990-12-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7069,
+      "invalid_count": null
+    },
+    {
+      "id": 23472,
+      "answer": "San Francisco",
+      "question": "The largest Chinese community outside of the Orient is in this U.S. city's Chinatown",
+      "value": 500,
+      "airdate": "1990-12-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7069,
+      "invalid_count": null
+    },
+    {
+      "id": 23682,
+      "answer": "Mobile",
+      "question": "Explorer Jean-Baptiste Le Moyne named this Ala. city after the Maubila Indian tribe",
+      "value": 100,
+      "airdate": "1990-11-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 728,
+      "invalid_count": null
+    },
+    {
+      "id": 23688,
+      "answer": "Las Cruces",
+      "question": "New Mexico city that got its name from the crosses on the graves of ambushed travelers",
+      "value": 200,
+      "airdate": "1990-11-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 728,
+      "invalid_count": null
+    },
+    {
+      "id": 23694,
+      "answer": "San Francisco",
+      "question": "Eisenhower was nominated for his second term as president in the Cow Palace in this city",
+      "value": 300,
+      "airdate": "1990-11-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 728,
+      "invalid_count": null
+    },
+    {
+      "id": 23700,
+      "answer": "Eugene",
+      "question": "This 2nd largest Oregon city is named for 1 of its settlers, a certain Mr. Skinner",
+      "value": null,
+      "airdate": "1990-11-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 728,
+      "invalid_count": null
+    },
+    {
+      "id": 23706,
+      "answer": "Asheville",
+      "question": "The graves of O. Henry & Thomas Wolfe are in this N.C. city where Wolfe was born",
+      "value": 500,
+      "airdate": "1990-11-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 728,
+      "invalid_count": null
+    },
+    {
+      "id": 23951,
+      "answer": "Fort Worth",
+      "question": "Tandy Center Subway, the world's only privately owned subway, is in this city west of Dallas",
+      "value": 100,
+      "airdate": "1990-10-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4119,
+      "invalid_count": null
+    },
+    {
+      "id": 23957,
+      "answer": "Atlanta",
+      "question": "Georgia city whose seal shows the phoenix, the mythical bird that arose from the ashes",
+      "value": 200,
+      "airdate": "1990-10-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4119,
+      "invalid_count": null
+    },
+    {
+      "id": 23963,
+      "answer": "Philadelphia",
+      "question": "\"The Quaker City\"",
+      "value": 300,
+      "airdate": "1990-10-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4119,
+      "invalid_count": null
+    },
+    {
+      "id": 23969,
+      "answer": "Chicago",
+      "question": "City that's home to Beatrice, Sears Roebuck & the William Wrigley Jr. Company",
+      "value": 400,
+      "airdate": "1990-10-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4119,
+      "invalid_count": null
+    },
+    {
+      "id": 23975,
+      "answer": "Topeka",
+      "question": "The area that later became this state capital was once occupied by the Kansa Indians",
+      "value": 500,
+      "airdate": "1990-10-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4119,
+      "invalid_count": null
+    },
+    {
+      "id": 25102,
+      "answer": "Salt Lake City",
+      "question": "A tourist attraction in this capital is the Seagull Monument in Temple Square",
+      "value": 100,
+      "airdate": "1992-05-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5416,
+      "invalid_count": null
+    },
+    {
+      "id": 25108,
+      "answer": "Atlanta",
+      "question": "Suburbs of this southern capital include Marietta, Smyrna & Norcross",
+      "value": 200,
+      "airdate": "1992-05-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5416,
+      "invalid_count": null
+    },
+    {
+      "id": 25114,
+      "answer": "Pittsburgh",
+      "question": "The tallest office building in Pennsylvania, the 64-story USX Tower, is in this city",
+      "value": 300,
+      "airdate": "1992-05-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5416,
+      "invalid_count": null
+    },
+    {
+      "id": 25120,
+      "answer": "Cleveland",
+      "question": "In 1825 this Ohio city was chosen as the Great Lakes terminus of the Ohio & Erie Canal",
+      "value": null,
+      "airdate": "1992-05-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5416,
+      "invalid_count": null
+    },
+    {
+      "id": 25126,
+      "answer": "Dallas",
+      "question": "The largest annual exposition in the U.S. is the state fair held in this second largest Texas city",
+      "value": 500,
+      "airdate": "1992-05-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5416,
+      "invalid_count": null
+    },
+    {
+      "id": 25162,
+      "answer": "Milwaukee",
+      "question": "In this city, while brewers make beer, the Brewers play Major League Baseball",
+      "value": 100,
+      "airdate": "1992-04-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7232,
+      "invalid_count": null
+    },
+    {
+      "id": 25168,
+      "answer": "Saint Augustine",
+      "question": "Built in 1672. the Castillo de San Marcos near this Florida city is the oldest masonry fort in the U.S.",
+      "value": 200,
+      "airdate": "1992-04-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7232,
+      "invalid_count": null
+    },
+    {
+      "id": 25174,
+      "answer": "Seattle",
+      "question": "In 1962 this city in Washington State was the site of the Century 21 Exposition",
+      "value": 300,
+      "airdate": "1992-04-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7232,
+      "invalid_count": null
+    },
+    {
+      "id": 25180,
+      "answer": "Los Alamos",
+      "question": "This New Mexico City's nuclear research lab was designated a nat'l landmark in 1965",
+      "value": 400,
+      "airdate": "1992-04-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7232,
+      "invalid_count": null
+    },
+    {
+      "id": 25186,
+      "answer": "Duluth",
+      "question": "This Minnesota city is the westernmost port on the Great Lakes",
+      "value": 500,
+      "airdate": "1992-04-30T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7232,
+      "invalid_count": null
+    },
+    {
+      "id": 25697,
+      "answer": "Salt Lake City",
+      "question": "This city is home to the Utah Symphony Orchestra & the Mormon Tabernacle Choir",
+      "value": 100,
+      "airdate": "1992-03-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6757,
+      "invalid_count": null
+    },
+    {
+      "id": 25703,
+      "answer": "New Haven",
+      "question": "What is now Yale University moved from Saybrook, Conn. to this city in 1716",
+      "value": 200,
+      "airdate": "1992-03-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6757,
+      "invalid_count": null
+    },
+    {
+      "id": 25709,
+      "answer": "Alabama",
+      "question": "Selma is the seat of this state's Dallas County",
+      "value": 300,
+      "airdate": "1992-03-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6757,
+      "invalid_count": null
+    },
+    {
+      "id": 25715,
+      "answer": "Savannah",
+      "question": "This seaport was the first Colonial settlement in Georgia",
+      "value": 400,
+      "airdate": "1992-03-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6757,
+      "invalid_count": null
+    },
+    {
+      "id": 25721,
+      "answer": "Seattle",
+      "question": "Sometimes called the \"Gateway to Alaska\", it's the largest metropolis in the Pacific Northwest",
+      "value": 500,
+      "airdate": "1992-03-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6757,
+      "invalid_count": null
+    },
+    {
+      "id": 27350,
+      "answer": "Anchorage",
+      "question": "Alaska's most populous city; it was founded in 1914 as a construction base for the Alaska Railroad",
+      "value": 100,
+      "airdate": "1991-10-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 274,
+      "invalid_count": null
+    },
+    {
+      "id": 27356,
+      "answer": "Ann Arbor",
+      "question": "The husbands of Ann Allen & Ann Rumsey named this Michigan city for their wives",
+      "value": 200,
+      "airdate": "1991-10-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 274,
+      "invalid_count": null
+    },
+    {
+      "id": 27362,
+      "answer": "Hialeah",
+      "question": "12 miles NW of downtown Miami, this Florida city is famous for its thoroughbred racetrack",
+      "value": 300,
+      "airdate": "1991-10-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 274,
+      "invalid_count": null
+    },
+    {
+      "id": 27368,
+      "answer": "Memphis",
+      "question": "You'll find W.C. Handy Park & Elvis Presley Plaza near Beale Street in this city",
+      "value": 400,
+      "airdate": "1991-10-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 274,
+      "invalid_count": null
+    },
+    {
+      "id": 27374,
+      "answer": "Concord, New Hampshire",
+      "question": "White granite from quarries near this New England capital was used in the Library of Congress",
+      "value": 500,
+      "airdate": "1991-10-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 274,
+      "invalid_count": null
+    },
+    {
+      "id": 29349,
+      "answer": "Chicago",
+      "question": "It's known as \"The Windy City\"",
+      "value": 100,
+      "airdate": "1993-02-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6711,
+      "invalid_count": null
+    },
+    {
+      "id": 29355,
+      "answer": "St. Louis",
+      "question": "At 630 feet in height, this city's Gateway Arch is the tallest monument in the U.S.",
+      "value": 200,
+      "airdate": "1993-02-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6711,
+      "invalid_count": null
+    },
+    {
+      "id": 29361,
+      "answer": "Baltimore",
+      "question": "The U.S.S. Constellation, a nat'l historic landmark, is docket at Pier 1 in this Maryland city's harbor",
+      "value": 300,
+      "airdate": "1993-02-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6711,
+      "invalid_count": null
+    },
+    {
+      "id": 29367,
+      "answer": "Reno",
+      "question": "This second largest Nevada city was name  for a Union general killed in the Civil War",
+      "value": 400,
+      "airdate": "1993-02-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6711,
+      "invalid_count": null
+    },
+    {
+      "id": 29373,
+      "answer": "Seattle",
+      "question": "The Pacific Science Center in this Northwest city was built for the 1962 world's fair",
+      "value": null,
+      "airdate": "1993-02-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6711,
+      "invalid_count": null
+    },
+    {
+      "id": 29682,
+      "answer": "Albany",
+      "question": "In 181 the N.Y. Central, Delaware & Hudson R.R. opened, linking New York City with this, the state capital",
+      "value": 100,
+      "airdate": "1992-12-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3732,
+      "invalid_count": null
+    },
+    {
+      "id": 29688,
+      "answer": "New Orleans",
+      "question": "The Cabildo in this city was the headquarters of the Spanish rulers of Louisiana",
+      "value": 200,
+      "airdate": "1992-12-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3732,
+      "invalid_count": null
+    },
+    {
+      "id": 29694,
+      "answer": "Alexandria",
+      "question": "G. Washington helped lay out this city's streets in 1749; it's across the Potomac from Washington, D.C.",
+      "value": 300,
+      "airdate": "1992-12-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3732,
+      "invalid_count": null
+    },
+    {
+      "id": 29700,
+      "answer": "Kansas City, Missouri",
+      "question": "Over twice as many people live in this most populous Missouri city as in the city that shares its name in another state",
+      "value": 400,
+      "airdate": "1992-12-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3732,
+      "invalid_count": null
+    },
+    {
+      "id": 29706,
+      "answer": "Oregon",
+      "question": "Beaverton in this state is the home of Nike Athletic Shoes",
+      "value": null,
+      "airdate": "1992-12-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3732,
+      "invalid_count": null
+    },
+    {
+      "id": 33117,
+      "answer": "Chicago",
+      "question": "Colleges in this city include Harold Washington, Malcolm X & Richard J. Daley",
+      "value": 100,
+      "airdate": "1993-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 33123,
+      "answer": "New Orleans",
+      "question": "171-foot-wide Canal Street runs from Lake Pontchartrain to the Mississippi River in this city",
+      "value": 200,
+      "airdate": "1993-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 33129,
+      "answer": "New York City",
+      "question": "This city's metropolitan area has the largest Jewish population of any city in the world",
+      "value": 300,
+      "airdate": "1993-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 33135,
+      "answer": "New Jersey",
+      "question": "Paterson, in this state, was once known as \"America's Silk City\"",
+      "value": 400,
+      "airdate": "1993-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 33141,
+      "answer": "Great Falls",
+      "question": "Giant Springs, one of the world's largest freshwater springs, is located at this \"great\" Montana city",
+      "value": 500,
+      "airdate": "1993-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1411,
+      "invalid_count": null
+    },
+    {
+      "id": 33792,
+      "answer": "New York",
+      "question": "It's sometimes referred to as \"The Big Apple\"",
+      "value": 100,
+      "airdate": "1993-09-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5266,
+      "invalid_count": null
+    },
+    {
+      "id": 33798,
+      "answer": "Boston",
+      "question": "Chartered on Feb. 23, 1822, it was the first Massachusetts town to become a city",
+      "value": 200,
+      "airdate": "1993-09-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5266,
+      "invalid_count": null
+    },
+    {
+      "id": 33804,
+      "answer": "Salt Lake City",
+      "question": "Among the tourist sites in this city are Beehive House & the Seagull Monument in Temple Square",
+      "value": 300,
+      "airdate": "1993-09-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5266,
+      "invalid_count": null
+    },
+    {
+      "id": 33810,
+      "answer": "Baltimore",
+      "question": "Among those buried in this city's Greenmount Cemetery are Johns Hopkins & John Wilkes Booth",
+      "value": 400,
+      "airdate": "1993-09-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5266,
+      "invalid_count": null
+    },
+    {
+      "id": 33816,
+      "answer": "Cincinnati",
+      "question": "This Ohio city's Fountain Square includes a fountain cast by the Royal Bronze Foundry of Bavaria",
+      "value": 500,
+      "airdate": "1993-09-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5266,
+      "invalid_count": null
+    },
+    {
+      "id": 33942,
+      "answer": "Pittsburgh",
+      "question": "Steel is no longer regularly produced in this Pennsylvania city nicknamed \"Steel City\"",
+      "value": 100,
+      "airdate": "1995-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6804,
+      "invalid_count": null
+    },
+    {
+      "id": 33948,
+      "answer": "Los Angeles",
+      "question": "It's the city in which you'd find the Griffith Observatory & Rancho La Brea Tar Pits",
+      "value": 200,
+      "airdate": "1995-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6804,
+      "invalid_count": null
+    },
+    {
+      "id": 33954,
+      "answer": "Chicago",
+      "question": "In 1979 Jane Byrne became this city's first woman mayor",
+      "value": 300,
+      "airdate": "1995-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6804,
+      "invalid_count": null
+    },
+    {
+      "id": 33960,
+      "answer": "Houston",
+      "question": "Suburbs of this largest Texas city include Deer Park, Missouri City & Pasadena",
+      "value": 400,
+      "airdate": "1995-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6804,
+      "invalid_count": null
+    },
+    {
+      "id": 33966,
+      "answer": "Cleveland",
+      "question": "In 1796 a director of the Connecticut Land Company founded this Ohio city on Lake Erie",
+      "value": 500,
+      "airdate": "1995-07-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6804,
+      "invalid_count": null
+    },
+    {
+      "id": 35412,
+      "answer": "El Paso",
+      "question": "The name of this city on the U.S.-Mexico border means \"the pass\"",
+      "value": 100,
+      "airdate": "1995-01-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 35418,
+      "answer": "Boston",
+      "question": "Communities that make the metropolitan area of this city include Brookline & Cambridge",
+      "value": 200,
+      "airdate": "1995-01-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 35424,
+      "answer": "Springfield, Illinois",
+      "question": "Statues of Abraham Lincoln & Stephen Douglas stand on the grounds of its capitol building",
+      "value": 300,
+      "airdate": "1995-01-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 35430,
+      "answer": "Wichita",
+      "question": "Cow Town, a tourist site in this largest Kansas City, is a reproduction of the early city",
+      "value": 400,
+      "airdate": "1995-01-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 35436,
+      "answer": "Biloxi",
+      "question": "Fort Louis, on the site of this Miss. port city, served as the capital of the Louisiana colony until 1722",
+      "value": 500,
+      "airdate": "1995-01-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7177,
+      "invalid_count": null
+    },
+    {
+      "id": 36016,
+      "answer": "Chicago",
+      "question": "This Illinois city's lakefront on Lake Michigan is over 25 miles long",
+      "value": 100,
+      "airdate": "1994-11-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2556,
+      "invalid_count": null
+    },
+    {
+      "id": 36022,
+      "answer": "Dover",
+      "question": "On August 11, 1683 William Penn issued a warrant to lay out this Delaware capital",
+      "value": 200,
+      "airdate": "1994-11-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2556,
+      "invalid_count": null
+    },
+    {
+      "id": 36028,
+      "answer": "Seattle",
+      "question": "The Museum of Flight, south of this major city, features the Red Barn, Boeing's first plant building",
+      "value": 300,
+      "airdate": "1994-11-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2556,
+      "invalid_count": null
+    },
+    {
+      "id": 36034,
+      "answer": "Pittsburgh",
+      "question": "A fountain at its Point State Park symbolizes the confluence of the Ohio, Monongahela & Allegheny Rivers",
+      "value": 400,
+      "airdate": "1994-11-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2556,
+      "invalid_count": null
+    },
+    {
+      "id": 36040,
+      "answer": "Dallas",
+      "question": "Before a new facility was built, Love Field was this Texas city's main airport",
+      "value": 500,
+      "airdate": "1994-11-15T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2556,
+      "invalid_count": null
+    },
+    {
+      "id": 36761,
+      "answer": "the Kennedy Space Center",
+      "question": "Titusville is considered the gateway to this Florida space center at Cape Canaveral",
+      "value": 100,
+      "airdate": "1996-07-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7135,
+      "invalid_count": null
+    },
+    {
+      "id": 36767,
+      "answer": "Detroit",
+      "question": "It's the only Michigan city whose population exceeds 1 million",
+      "value": 200,
+      "airdate": "1996-07-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7135,
+      "invalid_count": null
+    },
+    {
+      "id": 36773,
+      "answer": "Boston",
+      "question": "The Freedom Trail winds 1 1/2 miles through the downtown & North End sections of this city",
+      "value": 300,
+      "airdate": "1996-07-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7135,
+      "invalid_count": null
+    },
+    {
+      "id": 36779,
+      "answer": "Charleston",
+      "question": "Dating from 1741, this S. Carolina port's Middleton Place Gardens are the USA's oldest landscaped gardens",
+      "value": 400,
+      "airdate": "1996-07-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7135,
+      "invalid_count": null
+    },
+    {
+      "id": 36785,
+      "answer": "Abilene",
+      "question": "A Texas city was named for this Kansas city, the boyhood home of Dwight D. Eisenhower",
+      "value": 500,
+      "airdate": "1996-07-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7135,
+      "invalid_count": null
+    },
+    {
+      "id": 39130,
+      "answer": "Detroit",
+      "question": "The cities of Highland Park & Hamtramck are surrounded by this Michigan city",
+      "value": 100,
+      "airdate": "1996-01-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 572,
+      "invalid_count": null
+    },
+    {
+      "id": 39136,
+      "answer": "St. Louis",
+      "question": "This Midwest city is home base to Cardinals, Rams & Clydesdales",
+      "value": 200,
+      "airdate": "1996-01-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 572,
+      "invalid_count": null
+    },
+    {
+      "id": 39142,
+      "answer": "Dayton, Ohio",
+      "question": "The U.S. Air Force Museum is located near this city, home of the Wright Brothers",
+      "value": 300,
+      "airdate": "1996-01-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 572,
+      "invalid_count": null
+    },
+    {
+      "id": 39148,
+      "answer": "Fargo",
+      "question": "Hamar, Norway is a sister city of this largest North Dakota city",
+      "value": 400,
+      "airdate": "1996-01-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 572,
+      "invalid_count": null
+    },
+    {
+      "id": 39154,
+      "answer": "Augusta, Maine",
+      "question": "In 1799 this city became the seat of Kennebec County; 33 years later, it became a state capital",
+      "value": null,
+      "airdate": "1996-01-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 572,
+      "invalid_count": null
+    },
+    {
+      "id": 39638,
+      "answer": "Orlando",
+      "question": "This home of Disney World was probably named for a soldier killed in the Second Seminole War",
+      "value": 100,
+      "airdate": "1995-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6807,
+      "invalid_count": null
+    },
+    {
+      "id": 39644,
+      "answer": "Pierre",
+      "question": "This capital's largest public employer is the state of South Dakota",
+      "value": 200,
+      "airdate": "1995-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6807,
+      "invalid_count": null
+    },
+    {
+      "id": 39650,
+      "answer": "Philadelphia",
+      "question": "Camden, New Jersey is in the metropolitan area of this Pennsylvania city",
+      "value": 300,
+      "airdate": "1995-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6807,
+      "invalid_count": null
+    },
+    {
+      "id": 39656,
+      "answer": "Independence, Missouri",
+      "question": "Harry Truman's summer White House was in this city",
+      "value": 400,
+      "airdate": "1995-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6807,
+      "invalid_count": null
+    },
+    {
+      "id": 39662,
+      "answer": "Oak Ridge",
+      "question": "This Tennessee city was built during World War II as part of the Manhattan Project",
+      "value": 500,
+      "airdate": "1995-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6807,
+      "invalid_count": null
+    },
+    {
+      "id": 39877,
+      "answer": "Milwaukee",
+      "question": "The name of this largest Wisconsin city comes from an Algonquian word that may mean \"a good place\"",
+      "value": 100,
+      "airdate": "1995-12-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5060,
+      "invalid_count": null
+    },
+    {
+      "id": 39883,
+      "answer": "Portland",
+      "question": "In 1905 this Oregon city hosted the Lewis & Clark Centennial Exposition",
+      "value": 200,
+      "airdate": "1995-12-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5060,
+      "invalid_count": null
+    },
+    {
+      "id": 39889,
+      "answer": "Mobile",
+      "question": "The submarine USS Drum is on display at this Alabama city's waterfront",
+      "value": 300,
+      "airdate": "1995-12-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5060,
+      "invalid_count": null
+    },
+    {
+      "id": 39895,
+      "answer": "Charleston",
+      "question": "Only 2 West Virginia cities have populations over 50,000: Huntington & this one",
+      "value": 400,
+      "airdate": "1995-12-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5060,
+      "invalid_count": null
+    },
+    {
+      "id": 39901,
+      "answer": "Wichita",
+      "question": "During World War II this Kansas city produced 26,000 military aircraft",
+      "value": 500,
+      "airdate": "1995-12-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 5060,
+      "invalid_count": null
+    },
+    {
+      "id": 40568,
+      "answer": "San Francisco",
+      "question": "The census bureau reports 29.1% of the population of this Northern Calif. city is Asian or Pacific Islander",
+      "value": 100,
+      "airdate": "1995-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7101,
+      "invalid_count": null
+    },
+    {
+      "id": 40574,
+      "answer": "Baltimore",
+      "question": "This largest Maryland city was originally laid out in a meadow along Jones Falls Creek",
+      "value": 200,
+      "airdate": "1995-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7101,
+      "invalid_count": null
+    },
+    {
+      "id": 40580,
+      "answer": "Columbus",
+      "question": "This capital is home to the Buckeye Farm News",
+      "value": 300,
+      "airdate": "1995-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7101,
+      "invalid_count": null
+    },
+    {
+      "id": 40586,
+      "answer": "Albuquerque",
+      "question": "This largest New Mexico city is known as the \"hot air balloon capital of the world\"",
+      "value": 400,
+      "airdate": "1995-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7101,
+      "invalid_count": null
+    },
+    {
+      "id": 40592,
+      "answer": "Tulsa",
+      "question": "This city, Oklahoma's second largest, is the headquarters of the U.S. Jaycees",
+      "value": 500,
+      "airdate": "1995-10-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7101,
+      "invalid_count": null
+    },
+    {
+      "id": 42216,
+      "answer": "Salt Lake City",
+      "question": "Principal streets in this Utah capital include North Temple, South Temple & West Temple",
+      "value": 100,
+      "airdate": "1997-06-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 750,
+      "invalid_count": null
+    },
+    {
+      "id": 42222,
+      "answer": "Philadelphia",
+      "question": "Elfreth's Alley in this Pennsylvania city dates back to the time of William Penn",
+      "value": 200,
+      "airdate": "1997-06-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 750,
+      "invalid_count": null
+    },
+    {
+      "id": 42228,
+      "answer": "Lexington",
+      "question": "Located in the heart of Kentucky's Bluegrass Region, it was named for a Massachusetts city",
+      "value": 300,
+      "airdate": "1997-06-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 750,
+      "invalid_count": null
+    },
+    {
+      "id": 42234,
+      "answer": "Rochester",
+      "question": "This New York city's largest employer is Eastman Kodak, with about 34,000 employees",
+      "value": 400,
+      "airdate": "1997-06-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 750,
+      "invalid_count": null
+    },
+    {
+      "id": 42240,
+      "answer": "Fairbanks",
+      "question": "Alaska's second-largest city, it was founded shortly after gold was discovered there",
+      "value": 500,
+      "airdate": "1997-06-26T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 750,
+      "invalid_count": null
+    },
+    {
+      "id": 42399,
+      "answer": "New Orleans",
+      "question": "This city's French Quarter encompasses 70 blocks",
+      "value": 100,
+      "airdate": "1997-06-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 738,
+      "invalid_count": null
+    },
+    {
+      "id": 42405,
+      "answer": "Las Vegas",
+      "question": "This largest Nevada city was first settled by Mormons who maintained a colony there 1855-57",
+      "value": 200,
+      "airdate": "1997-06-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 738,
+      "invalid_count": null
+    },
+    {
+      "id": 42411,
+      "answer": "Charleston",
+      "question": "This West Virginia capital was named for Colonel George Clendenin's father, Charles",
+      "value": 300,
+      "airdate": "1997-06-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 738,
+      "invalid_count": null
+    },
+    {
+      "id": 42417,
+      "answer": "St. Petersburg",
+      "question": "The Pier, which juts almost a half mile into Tampa Bay, is the center of this city's tourist life",
+      "value": 400,
+      "airdate": "1997-06-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 738,
+      "invalid_count": null
+    },
+    {
+      "id": 42423,
+      "answer": "Buffalo",
+      "question": "The name of this N.Y. city may be derived from a mispronounciation of \"Beau Fleuve\", or \"Beautiful River\"",
+      "value": null,
+      "airdate": "1997-06-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 738,
+      "invalid_count": null
+    },
+    {
+      "id": 42546,
+      "answer": "Trenton",
+      "question": "This New Jersey capital is also the seat of Mercer County",
+      "value": 100,
+      "airdate": "1997-06-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 725,
+      "invalid_count": null
+    },
+    {
+      "id": 42552,
+      "answer": "Seattle",
+      "question": "Northwest city seen here during a visit by a famous TV show:",
+      "value": null,
+      "airdate": "1997-06-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 725,
+      "invalid_count": null
+    },
+    {
+      "id": 42558,
+      "answer": "Richmond",
+      "question": "Thomas Jefferson formulated the bill moving the Virginia capital to this city",
+      "value": 300,
+      "airdate": "1997-06-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 725,
+      "invalid_count": null
+    },
+    {
+      "id": 42564,
+      "answer": "Pittsburgh",
+      "question": "This Pennsylvania city's Civic Arena or \"Igloo\" has a retractable roof",
+      "value": 400,
+      "airdate": "1997-06-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 725,
+      "invalid_count": null
+    },
+    {
+      "id": 42570,
+      "answer": "Palm Beach",
+      "question": "Henry Flagler developed this fashionable Florida resort famous for the chic shops on Worth Avenue",
+      "value": 500,
+      "airdate": "1997-06-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 725,
+      "invalid_count": null
+    },
+    {
+      "id": 43023,
+      "answer": "Hartford",
+      "question": "New Haven & this city were twin capitals of Connecticut from 1701 to 1875, when it became the sole capital",
+      "value": 100,
+      "airdate": "1997-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1474,
+      "invalid_count": null
+    },
+    {
+      "id": 43029,
+      "answer": "Baltimore",
+      "question": "In 1904 a fire in this largest Maryland city nearly destroyed the entire downtown section",
+      "value": 200,
+      "airdate": "1997-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1474,
+      "invalid_count": null
+    },
+    {
+      "id": 43035,
+      "answer": "Switzerland",
+      "question": "New Bern, one of North Carolina's oldest cities, is named for this country's capital",
+      "value": 300,
+      "airdate": "1997-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1474,
+      "invalid_count": null
+    },
+    {
+      "id": 43041,
+      "answer": "Gettysburg",
+      "question": "In late June to early July you can attend Civil War Heritage Days in this Pennsylvania town",
+      "value": 400,
+      "airdate": "1997-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1474,
+      "invalid_count": null
+    },
+    {
+      "id": 43047,
+      "answer": "Euclid",
+      "question": "Surveyors in Ohio named a Cleveland suburb for this Greek \"Father of Geometry\"",
+      "value": 500,
+      "airdate": "1997-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1474,
+      "invalid_count": null
+    },
+    {
+      "id": 44722,
+      "answer": "Tallahassee",
+      "question": "Of Creek origin, the name of this Florida capital means \"Old Town\"",
+      "value": 100,
+      "airdate": "1997-02-25T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 682,
+      "invalid_count": null
+    },
+    {
+      "id": 44728,
+      "answer": "Atlantic City",
+      "question": "One of New Jersey's annual rites of summer is the crowning of Miss America in this city",
+      "value": 200,
+      "airdate": "1997-02-25T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 682,
+      "invalid_count": null
+    },
+    {
+      "id": 44734,
+      "answer": "St. Louis",
+      "question": "Coinciding with the World's Fair, the first Olympic Games in the U.S. opened in this city May 14, 1904",
+      "value": null,
+      "airdate": "1997-02-25T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 682,
+      "invalid_count": null
+    },
+    {
+      "id": 44740,
+      "answer": "Bethlehem",
+      "question": "Nicknamed the \"Christmas City\", this Pennsylvania city is famous for its steel",
+      "value": 400,
+      "airdate": "1997-02-25T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 682,
+      "invalid_count": null
+    },
+    {
+      "id": 44746,
+      "answer": "Burlington",
+      "question": "You can visit Ethan Allen's grave in this city, Vermont's largest",
+      "value": 500,
+      "airdate": "1997-02-25T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 682,
+      "invalid_count": null
+    },
+    {
+      "id": 47297,
+      "answer": "Baltimore",
+      "question": "The U.S. Naval Academy at Annapolis is within the metropolitan area of this city",
+      "value": 100,
+      "airdate": "1996-10-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2763,
+      "invalid_count": null
+    },
+    {
+      "id": 47303,
+      "answer": "Miami",
+      "question": "in 1985 Xavier Suarez became this Florida city's first Cuban-born mayor",
+      "value": 200,
+      "airdate": "1996-10-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2763,
+      "invalid_count": null
+    },
+    {
+      "id": 47309,
+      "answer": "Tucson",
+      "question": "The name of this second-largest Arizona city is from a Papago Indian term for \"spring at foot of black hill\"",
+      "value": 300,
+      "airdate": "1996-10-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2763,
+      "invalid_count": null
+    },
+    {
+      "id": 47315,
+      "answer": "Biloxi",
+      "question": "Around 1720 this Mississippi port became the capital of France's Louisiana territory",
+      "value": 400,
+      "airdate": "1996-10-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2763,
+      "invalid_count": null
+    },
+    {
+      "id": 47321,
+      "answer": "Bethlehem",
+      "question": "This Pennsylvania city was founded in 1741 & named on Christmas Eve of that year",
+      "value": null,
+      "airdate": "1996-10-11T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2763,
+      "invalid_count": null
+    },
+    {
+      "id": 48727,
+      "answer": "Los Angeles",
+      "question": "This city's Major League Baseball team plays its home games in Chavez Ravine",
+      "value": 100,
+      "airdate": "1998-06-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1930,
+      "invalid_count": null
+    },
+    {
+      "id": 48733,
+      "answer": "Hartford",
+      "question": "This state capital is near the head of navigation on the Connecticut River",
+      "value": 200,
+      "airdate": "1998-06-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1930,
+      "invalid_count": null
+    },
+    {
+      "id": 48739,
+      "answer": "Grand Junction",
+      "question": "This Colorado city is located where the Gunnison & Colorado Rivers meet, hence its name",
+      "value": 300,
+      "airdate": "1998-06-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1930,
+      "invalid_count": null
+    },
+    {
+      "id": 48745,
+      "answer": "Abilene",
+      "question": "This Texas city was named for the Kansas town that Dwight D. Eisenhower once called home",
+      "value": 400,
+      "airdate": "1998-06-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1930,
+      "invalid_count": null
+    },
+    {
+      "id": 48751,
+      "answer": "Rapid City",
+      "question": "In 1972 a flash flood in this South Dakota city killed over 200 people",
+      "value": 500,
+      "airdate": "1998-06-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1930,
+      "invalid_count": null
+    },
+    {
+      "id": 52595,
+      "answer": "Cheyenne",
+      "question": "This Wyoming capital is home to the annual Frontier Days celebration",
+      "value": 100,
+      "airdate": "1997-12-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1214,
+      "invalid_count": null
+    },
+    {
+      "id": 52601,
+      "answer": "Baltimore",
+      "question": "It's the only Maryland city not located within a county",
+      "value": 200,
+      "airdate": "1997-12-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1214,
+      "invalid_count": null
+    },
+    {
+      "id": 52607,
+      "answer": "Honolulu",
+      "question": "Principal routes through this capital include Ala Moana Boulevard & Pali Highway",
+      "value": 300,
+      "airdate": "1997-12-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1214,
+      "invalid_count": null
+    },
+    {
+      "id": 52613,
+      "answer": "Tucson",
+      "question": "This Arizona city's name comes from Chuk Son, Papago for \"Spring at the foot of a black mountain\"",
+      "value": 400,
+      "airdate": "1997-12-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1214,
+      "invalid_count": null
+    },
+    {
+      "id": 52619,
+      "answer": "Newport",
+      "question": "This Rhode Island resort city is the site of the U.S. Navy Undersea Warfare Center",
+      "value": 500,
+      "airdate": "1997-12-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1214,
+      "invalid_count": null
+    },
+    {
+      "id": 53861,
+      "answer": "Phoenix",
+      "question": "Rebuilding Precolumbian irrigation canals in 1867 helped \"resurrect\" this future Arizona capital",
+      "value": 100,
+      "airdate": "1997-10-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1237,
+      "invalid_count": null
+    },
+    {
+      "id": 53867,
+      "answer": "Charlotte",
+      "question": "Cornwallis once referred to this N.C. city as a \"hornet's nest\"; today the Hornets play there",
+      "value": 200,
+      "airdate": "1997-10-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1237,
+      "invalid_count": null
+    },
+    {
+      "id": 53872,
+      "answer": "Jacksonville",
+      "question": "This Florida city was named for the general who led the fight to take Florida from the Spanish",
+      "value": 300,
+      "airdate": "1997-10-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1237,
+      "invalid_count": null
+    },
+    {
+      "id": 53877,
+      "answer": "Albuquerque",
+      "question": "In 1806, 100 years after its founding on the Rio Grande, this New Mexico city had only a few thousand people",
+      "value": 400,
+      "airdate": "1997-10-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1237,
+      "invalid_count": null
+    },
+    {
+      "id": 53882,
+      "answer": "Pittsburgh",
+      "question": "Ranked as the nation's largest inland port, it's home to Carnegie-Mellon University",
+      "value": 500,
+      "airdate": "1997-10-13T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1237,
+      "invalid_count": null
+    },
+    {
+      "id": 56069,
+      "answer": "New Orleans",
+      "question": "When football's Saints go marching in for a home game, it's in this city",
+      "value": 100,
+      "airdate": "1999-05-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 276,
+      "invalid_count": null
+    },
+    {
+      "id": 56075,
+      "answer": "San Antonio",
+      "question": "Oh, the O. Henry house & the Alamo are 2 of the places you can visit in this city",
+      "value": 200,
+      "airdate": "1999-05-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 276,
+      "invalid_count": null
+    },
+    {
+      "id": 56081,
+      "answer": "Miami",
+      "question": "It's the seat of the Florida county formerly known as Dade",
+      "value": 300,
+      "airdate": "1999-05-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 276,
+      "invalid_count": null
+    },
+    {
+      "id": 56087,
+      "answer": "St. Louis",
+      "question": "In 1904 people met at the fair in this city to celebrate the 100th anniversary of the Louisiana Purchase",
+      "value": 400,
+      "airdate": "1999-05-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 276,
+      "invalid_count": null
+    },
+    {
+      "id": 56093,
+      "answer": "Tombstone",
+      "question": "Highlights of this small Arizona city include Boothill Graveyard & the O.K. Corral",
+      "value": 500,
+      "airdate": "1999-05-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 276,
+      "invalid_count": null
+    },
+    {
+      "id": 56341,
+      "answer": "Nashville",
+      "question": "A cable TV network is named for this state capital, a hotbed of country music",
+      "value": 100,
+      "airdate": "1999-05-10T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2385,
+      "invalid_count": null
+    },
+    {
+      "id": 56347,
+      "answer": "San Francisco",
+      "question": "At less than 950 feet, Mt. Davidson is the highest point in this \"City by the Bay\"",
+      "value": 200,
+      "airdate": "1999-05-10T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2385,
+      "invalid_count": null
+    },
+    {
+      "id": 56353,
+      "answer": "Boston",
+      "question": "Paul Revere's house in this capital is the city's only 17th century building downtown",
+      "value": 300,
+      "airdate": "1999-05-10T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2385,
+      "invalid_count": null
+    },
+    {
+      "id": 56359,
+      "answer": "Reno",
+      "question": "Nevada's second-largest city, it was named for a Union general killed during the Civil War",
+      "value": 400,
+      "airdate": "1999-05-10T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2385,
+      "invalid_count": null
+    },
+    {
+      "id": 56365,
+      "answer": "Seattle",
+      "question": "The site of the World's Fair in 1962, it's flanked on the west by Puget Sound & on the east by Lake Washington",
+      "value": 500,
+      "airdate": "1999-05-10T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2385,
+      "invalid_count": null
+    },
+    {
+      "id": 58962,
+      "answer": "St. Paul",
+      "question": "One of the Twin Cities, it was named after a man from Tarsus",
+      "value": 100,
+      "airdate": "1999-01-05T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 972,
+      "invalid_count": null
+    },
+    {
+      "id": 58968,
+      "answer": "New Orleans",
+      "question": "This \"Crescent City\" was acquired as part of the land deal the U.S. made with France in 1803",
+      "value": 200,
+      "airdate": "1999-01-05T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 972,
+      "invalid_count": null
+    },
+    {
+      "id": 58974,
+      "answer": "Toledo, Ohio",
+      "question": "The city known for its Mud Hens; it was named for a city in Spain",
+      "value": 300,
+      "airdate": "1999-01-05T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 972,
+      "invalid_count": null
+    },
+    {
+      "id": 58980,
+      "answer": "Whittier",
+      "question": "The Society of Friends founded this California city in 1887 & named it after an American poet",
+      "value": 400,
+      "airdate": "1999-01-05T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 972,
+      "invalid_count": null
+    },
+    {
+      "id": 58986,
+      "answer": "Stephen Decatur",
+      "question": "An Illinois city was named for this \"Our country, right or wrong\" naval hero",
+      "value": 500,
+      "airdate": "1999-01-05T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 972,
+      "invalid_count": null
+    },
+    {
+      "id": 62007,
+      "answer": "Tallahassee",
+      "question": "The site for this state capital was chosen because of its location midway between Pensacola & St. Augustine",
+      "value": 100,
+      "airdate": "2000-06-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2118,
+      "invalid_count": null
+    },
+    {
+      "id": 62013,
+      "answer": "Long Beach",
+      "question": "This California city on San Pedro Bay was originally called Willmore City, but was renamed for its 8 1/2 mile beach",
+      "value": 200,
+      "airdate": "2000-06-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2118,
+      "invalid_count": null
+    },
+    {
+      "id": 62019,
+      "answer": "Miami",
+      "question": "In addition to being a major seaport for cargo, it's the world's largest cruise port",
+      "value": 300,
+      "airdate": "2000-06-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2118,
+      "invalid_count": null
+    },
+    {
+      "id": 62025,
+      "answer": "Buffalo",
+      "question": "A stone obelisk dedicated to President William McKinley stands in this New York city's Niagara Square",
+      "value": null,
+      "airdate": "2000-06-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2118,
+      "invalid_count": null
+    },
+    {
+      "id": 62031,
+      "answer": "Pittsburgh",
+      "question": "At 64 stories the USX Tower in this Steel City is one of the tallest buildings in the eastern U.S.",
+      "value": 500,
+      "airdate": "2000-06-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2118,
+      "invalid_count": null
+    },
+    {
+      "id": 63169,
+      "answer": "Washington, D.C.",
+      "question": "City in which the Watergate break-in occurred",
+      "value": 100,
+      "airdate": "2000-05-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1822,
+      "invalid_count": null
+    },
+    {
+      "id": 63175,
+      "answer": "Tulsa",
+      "question": "With a new waterway, this Oklahoma oil center became an inland port in 1971",
+      "value": 200,
+      "airdate": "2000-05-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1822,
+      "invalid_count": null
+    },
+    {
+      "id": 63181,
+      "answer": "Ohio",
+      "question": "The city of Cambridge in this state was the birthplace of spaceman John Glenn",
+      "value": 300,
+      "airdate": "2000-05-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1822,
+      "invalid_count": null
+    },
+    {
+      "id": 63187,
+      "answer": "Mesa",
+      "question": "Butte is in Montana; a city named for this similar land form is in Arizona",
+      "value": null,
+      "airdate": "2000-05-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1822,
+      "invalid_count": null
+    },
+    {
+      "id": 63193,
+      "answer": "San Juan, Puerto Rico",
+      "question": "Dating back to 1772, Bayamon is a suburb of this capital of a commonwealth",
+      "value": 500,
+      "airdate": "2000-05-03T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1822,
+      "invalid_count": null
+    },
+    {
+      "id": 65126,
+      "answer": "San (San Jose, San Diego & San Francisco)",
+      "question": "The names of the 2nd, 3rd & 4th most populous cities in California begin with these 3 letters",
+      "value": 100,
+      "airdate": "2000-02-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2030,
+      "invalid_count": null
+    },
+    {
+      "id": 65132,
+      "answer": "Detroit",
+      "question": "The Walk-In-The-Water, the first steamship on the Great Lakes, ran between Buffalo & this motor city",
+      "value": 200,
+      "airdate": "2000-02-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2030,
+      "invalid_count": null
+    },
+    {
+      "id": 65138,
+      "answer": "Philadelphia",
+      "question": "In 1799, if you wanted to go to the nation's capital, you went to this city",
+      "value": 300,
+      "airdate": "2000-02-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2030,
+      "invalid_count": null
+    },
+    {
+      "id": 65144,
+      "answer": "El Paso",
+      "question": "This Texas city's name refers to a pass or crossing of the Rio Grande",
+      "value": 400,
+      "airdate": "2000-02-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2030,
+      "invalid_count": null
+    },
+    {
+      "id": 65150,
+      "answer": "Las Vegas",
+      "question": "Its Chamber of Commerce is located at 3720 Howard Hughes Parkway",
+      "value": null,
+      "airdate": "2000-02-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2030,
+      "invalid_count": null
+    },
+    {
+      "id": 67021,
+      "answer": "Palo Alto",
+      "question": "Stanford students know the name of this California city means \"tall tree\", referring to redwoods",
+      "value": 100,
+      "airdate": "1999-11-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2473,
+      "invalid_count": null
+    },
+    {
+      "id": 67027,
+      "answer": "Milwaukee",
+      "question": "Solomon Juneau was the first mayor of this largest Wisconsin city",
+      "value": 200,
+      "airdate": "1999-11-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2473,
+      "invalid_count": null
+    },
+    {
+      "id": 67033,
+      "answer": "Minnesota",
+      "question": "After the Twin Cities & Bloomington, Duluth is this state's next most populous city",
+      "value": 300,
+      "airdate": "1999-11-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2473,
+      "invalid_count": null
+    },
+    {
+      "id": 67039,
+      "answer": "Atlantic City",
+      "question": "Found on Absecon Island, it's famous for its Boardwalk (& Park Place)",
+      "value": 400,
+      "airdate": "1999-11-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2473,
+      "invalid_count": null
+    },
+    {
+      "id": 67045,
+      "answer": "Fort Lauderdale",
+      "question": "About 25 miles north of Miami, it was named for a structure built during the 2nd Seminole War",
+      "value": null,
+      "airdate": "1999-11-02T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2473,
+      "invalid_count": null
+    },
+    {
+      "id": 68731,
+      "answer": "El Paso",
+      "question": "A 1960 Grammy went to Marty Robbins for his tune named for this west Texas town on the I-10",
+      "value": 100,
+      "airdate": "2001-06-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1575,
+      "invalid_count": null
+    },
+    {
+      "id": 68737,
+      "answer": "Oakland",
+      "question": "It's the largest city in population on the eastern side of San Francisco Bay",
+      "value": 200,
+      "airdate": "2001-06-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1575,
+      "invalid_count": null
+    },
+    {
+      "id": 68743,
+      "answer": "Kansas City",
+      "question": "If you want \"mo\" money, go to this Missouri city, home to the Tenth Federal Reserve Bank",
+      "value": 300,
+      "airdate": "2001-06-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1575,
+      "invalid_count": null
+    },
+    {
+      "id": 68749,
+      "answer": "Eugene",
+      "question": "Skinner's Mudhole is a nickname of this Oregon city; it was named for Mr. Skinner",
+      "value": 400,
+      "airdate": "2001-06-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1575,
+      "invalid_count": null
+    },
+    {
+      "id": 68755,
+      "answer": "Las Cruces",
+      "question": "This New Mexico town was named for the grave markers of some of its earlier settlers",
+      "value": null,
+      "airdate": "2001-06-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1575,
+      "invalid_count": null
+    },
+    {
+      "id": 72021,
+      "answer": "Boston",
+      "question": "The 25 hospitals you can choose from in this city include the famous Massachusetts General",
+      "value": 100,
+      "airdate": "2001-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2278,
+      "invalid_count": null
+    },
+    {
+      "id": 72027,
+      "answer": "Las Vegas",
+      "question": "This gambling mecca was originally settled by Mormons back in 1855",
+      "value": 200,
+      "airdate": "2001-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2278,
+      "invalid_count": null
+    },
+    {
+      "id": 72033,
+      "answer": "Galveston",
+      "question": "This coastal city's name goes back to Louisiana governor Bernardo de Galvez",
+      "value": 300,
+      "airdate": "2001-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2278,
+      "invalid_count": null
+    },
+    {
+      "id": 72039,
+      "answer": "Charlotte",
+      "question": "Women outnumber men in this North Carolina city named for the wife of King George III",
+      "value": 400,
+      "airdate": "2001-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2278,
+      "invalid_count": null
+    },
+    {
+      "id": 72045,
+      "answer": "Knoxville",
+      "question": "Site of the 1982 World's Fair, it was twice capitol of Tennessee",
+      "value": 500,
+      "airdate": "2001-01-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2278,
+      "invalid_count": null
+    },
+    {
+      "id": 78486,
+      "answer": "San Francisco",
+      "question": "Part of the San Andreas Fault line moved  about 25 feet during a 1906 earthquake in this northern California city",
+      "value": 200,
+      "airdate": "2002-02-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1416,
+      "invalid_count": null
+    },
+    {
+      "id": 78492,
+      "answer": "Memphis",
+      "question": "This largest Tennessee city was named for a city in Egypt",
+      "value": 400,
+      "airdate": "2002-02-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1416,
+      "invalid_count": null
+    },
+    {
+      "id": 78498,
+      "answer": "Atlanta",
+      "question": "(Hi, I'm Jimmy J.)  I helped compose & produce \"Welcome To The World\", the opening theme to this U.S. city's Summer Olympics",
+      "value": 600,
+      "airdate": "2002-02-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1416,
+      "invalid_count": null
+    },
+    {
+      "id": 78504,
+      "answer": "Raleigh (North Carolina)",
+      "question": "This state capital was named for an English explorer who died in 1618",
+      "value": null,
+      "airdate": "2002-02-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1416,
+      "invalid_count": null
+    },
+    {
+      "id": 78510,
+      "answer": "Amarillo",
+      "question": "The name of this Texas city means \"yellow\" in Spanish",
+      "value": 1000,
+      "airdate": "2002-02-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1416,
+      "invalid_count": null
+    },
+    {
+      "id": 79589,
+      "answer": "Philadelphia",
+      "question": "In 1700 its population of 4,500 consisted of a large number of Quakers professing \"brotherly love\"",
+      "value": 200,
+      "airdate": "2001-12-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1089,
+      "invalid_count": null
+    },
+    {
+      "id": 79595,
+      "answer": "Austin",
+      "question": "About 1/4 of the 540,000 people of this city work for the state of Texas",
+      "value": 400,
+      "airdate": "2001-12-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1089,
+      "invalid_count": null
+    },
+    {
+      "id": 79601,
+      "answer": "Las Vegas",
+      "question": "Between 1990 & 1996, the population of this seat of Clark county grew 46% & \"odds are\" it's still growing",
+      "value": 600,
+      "airdate": "2001-12-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1089,
+      "invalid_count": null
+    },
+    {
+      "id": 79607,
+      "answer": "Charlotte",
+      "question": "General Cornwallis called this city a \"hornet's nest\", hence the name of its NBA team",
+      "value": 800,
+      "airdate": "2001-12-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1089,
+      "invalid_count": null
+    },
+    {
+      "id": 79612,
+      "answer": "Salt Lake City, Utah",
+      "question": "It was laid out in 1847 in a grid pattern based on the 4 streets around Temple Square",
+      "value": null,
+      "airdate": "2001-12-18T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1089,
+      "invalid_count": null
+    },
+    {
+      "id": 80776,
+      "answer": "Atlantic City",
+      "question": "Saltwater taffy originated in this New Jersey resort in 1883",
+      "value": 100,
+      "airdate": "2001-10-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1008,
+      "invalid_count": null
+    },
+    {
+      "id": 80782,
+      "answer": "St. Louis",
+      "question": "This city's metropolitan area consists of 6 Missouri counties & 5 Illinois counties",
+      "value": 200,
+      "airdate": "2001-10-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1008,
+      "invalid_count": null
+    },
+    {
+      "id": 80788,
+      "answer": "Boulder",
+      "question": "The site of the University of Colorado's main campus, it owns Arapahoe Glacier, from which it gets most of its water",
+      "value": 300,
+      "airdate": "2001-10-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1008,
+      "invalid_count": null
+    },
+    {
+      "id": 80794,
+      "answer": "Lexington",
+      "question": "Served by Blue Grass Airport, this Kentucky city was named for the first battle of the American Revolution",
+      "value": 400,
+      "airdate": "2001-10-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1008,
+      "invalid_count": null
+    },
+    {
+      "id": 80800,
+      "answer": "Buffalo",
+      "question": "It's the easternmost port on Lake Erie",
+      "value": 500,
+      "airdate": "2001-10-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1008,
+      "invalid_count": null
+    },
+    {
+      "id": 87456,
+      "answer": "Honolulu",
+      "question": "Depictions on this state capital's seal include Nuuanu Pali & Diamond Head",
+      "value": 200,
+      "airdate": "2002-10-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2624,
+      "invalid_count": null
+    },
+    {
+      "id": 87462,
+      "answer": "Dover",
+      "question": "Found on the St. Jones River, this capital of Delaware bears the name of an English seaport",
+      "value": 400,
+      "airdate": "2002-10-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2624,
+      "invalid_count": null
+    },
+    {
+      "id": 87468,
+      "answer": "Rochester",
+      "question": "The prestigious Eastman School of Music is located in this city in western New York",
+      "value": 600,
+      "airdate": "2002-10-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2624,
+      "invalid_count": null
+    },
+    {
+      "id": 87474,
+      "answer": "Omaha",
+      "question": "The Durham Western Heritage Museum in this Nebraska city is housed in the old Union Pacific depot",
+      "value": 800,
+      "airdate": "2002-10-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2624,
+      "invalid_count": null
+    },
+    {
+      "id": 87480,
+      "answer": "Charlotte",
+      "question": "Now the largest city in the Carolinas, it hosted the last full meeting of the Confederate cabinet in 1865",
+      "value": null,
+      "airdate": "2002-10-24T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2624,
+      "invalid_count": null
+    },
+    {
+      "id": 91228,
+      "answer": "Boston",
+      "question": "Its nicknames include \"The Athens of America\" & \"The Cradle of Liberty\"",
+      "value": 200,
+      "airdate": "2004-03-22T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3299,
+      "invalid_count": null
+    },
+    {
+      "id": 91234,
+      "answer": "Salem",
+      "question": "When Oregon became a state in 1859, this city on the Willamette River was already the capital",
+      "value": 400,
+      "airdate": "2004-03-22T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3299,
+      "invalid_count": null
+    },
+    {
+      "id": 91240,
+      "answer": "Philadelphia",
+      "question": "Benjamin Franklin Parkway & The Franklin Institute Science Museum are in this city",
+      "value": 600,
+      "airdate": "2004-03-22T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3299,
+      "invalid_count": null
+    },
+    {
+      "id": 91246,
+      "answer": "Cleveland",
+      "question": "According to a song by Ian Hunter, it \"Rocks\" (must be why the Rock & Roll Hall of Fame is there)",
+      "value": 800,
+      "airdate": "2004-03-22T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3299,
+      "invalid_count": null
+    },
+    {
+      "id": 91252,
+      "answer": "New Orleans",
+      "question": "Located in this city's Garden District, Commander's Palace features a jazz brunch on weekends",
+      "value": 1000,
+      "airdate": "2004-03-22T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3299,
+      "invalid_count": null
+    },
+    {
+      "id": 92452,
+      "answer": "California",
+      "question": "Farmers in this state's San Joaquin Valley ship their stock through Stockton",
+      "value": 200,
+      "airdate": "2004-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3214,
+      "invalid_count": null
+    },
+    {
+      "id": 92458,
+      "answer": "Lexington",
+      "question": "This Kentucky city was founded in 1775 & named for a battle site in Massachusetts",
+      "value": 400,
+      "airdate": "2004-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3214,
+      "invalid_count": null
+    },
+    {
+      "id": 92464,
+      "answer": "Atlanta",
+      "question": "In November 2001 this city's Journal & Constitution newspapers fully merged",
+      "value": 600,
+      "airdate": "2004-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3214,
+      "invalid_count": null
+    },
+    {
+      "id": 92470,
+      "answer": "the Erie Canal",
+      "question": "Rochester, New York grew because of its location on this",
+      "value": 800,
+      "airdate": "2004-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3214,
+      "invalid_count": null
+    },
+    {
+      "id": 92476,
+      "answer": "Lewiston",
+      "question": "This Idaho city, founded in 1861, was named for the co-leader of an expedition that camped there in 1805",
+      "value": 1000,
+      "airdate": "2004-01-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3214,
+      "invalid_count": null
+    },
+    {
+      "id": 99379,
+      "answer": "Atlantic City",
+      "question": "In 1921 this New Jersey city crowned its first Miss America",
+      "value": 200,
+      "airdate": "2005-01-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 111,
+      "invalid_count": null
+    },
+    {
+      "id": 99385,
+      "answer": "Augusta",
+      "question": "This Georgia  city that's popular with golfers was named for the mother of George III",
+      "value": 400,
+      "airdate": "2005-01-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 111,
+      "invalid_count": null
+    },
+    {
+      "id": 99391,
+      "answer": "Kalamazoo",
+      "question": "Had this Michigan city kept its earlier name, there might have been a song \"I've Got A Gal In Bronson\"",
+      "value": 600,
+      "airdate": "2005-01-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 111,
+      "invalid_count": null
+    },
+    {
+      "id": 99397,
+      "answer": "Mobile",
+      "question": "A bay & a river bear the name of this city, Alabama's second largest",
+      "value": 800,
+      "airdate": "2005-01-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 111,
+      "invalid_count": null
+    },
+    {
+      "id": 99403,
+      "answer": "Zanesville",
+      "question": "An A to Z list of Ohio cities might run from Aberdeen to this birthplace of a famous western author",
+      "value": 1000,
+      "airdate": "2005-01-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 111,
+      "invalid_count": null
+    },
+    {
+      "id": 100003,
+      "answer": "San Diego",
+      "question": "Located 12 miles north of Mexico, this California city was a whaling port in the mid-1800s",
+      "value": 200,
+      "airdate": "2004-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 77,
+      "invalid_count": null
+    },
+    {
+      "id": 100009,
+      "answer": "Memphis",
+      "question": "W.C. Handy wrote some of his blues on Beale Street in this city",
+      "value": 400,
+      "airdate": "2004-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 77,
+      "invalid_count": null
+    },
+    {
+      "id": 100015,
+      "answer": "Honolulu",
+      "question": "It's the southernmost state capital",
+      "value": null,
+      "airdate": "2004-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 77,
+      "invalid_count": null
+    },
+    {
+      "id": 100021,
+      "answer": "Charleston",
+      "question": "Daniel Boone lived for a while in this West Virginia capital",
+      "value": 800,
+      "airdate": "2004-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 77,
+      "invalid_count": null
+    },
+    {
+      "id": 100027,
+      "answer": "Boston",
+      "question": "John Adams said \"the child of Independence\" was born in \"the old Council Chamber\" of this city's Old State House",
+      "value": 1000,
+      "airdate": "2004-12-21T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 77,
+      "invalid_count": null
+    },
+    {
+      "id": 100715,
+      "answer": "Atlantic City",
+      "question": "The game properties in classic Monopoly were named for streets in this city",
+      "value": 200,
+      "airdate": "2004-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 53,
+      "invalid_count": null
+    },
+    {
+      "id": 100721,
+      "answer": "Chicago",
+      "question": "Itâs easy to recognize this cityâs skyline--see the Sears Tower?",
+      "value": 400,
+      "airdate": "2004-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 53,
+      "invalid_count": null
+    },
+    {
+      "id": 100727,
+      "answer": "Bloomington",
+      "question": "This seat of Indiana University may have been named for its flowers or for an early settler",
+      "value": 600,
+      "airdate": "2004-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 53,
+      "invalid_count": null
+    },
+    {
+      "id": 100733,
+      "answer": "Lafayette",
+      "question": "The heart of French Louisiana & the unofficial capital of the Cajun country is this city named for a French patriot",
+      "value": 800,
+      "airdate": "2004-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 53,
+      "invalid_count": null
+    },
+    {
+      "id": 100739,
+      "answer": "Mesa",
+      "question": "On a âtableâ of Arizonaâs most populous cities, this one would be listed third",
+      "value": null,
+      "airdate": "2004-11-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 53,
+      "invalid_count": null
+    },
+    {
+      "id": 107908,
+      "answer": "Houston",
+      "question": "This Texas port is the fourth-most populous city in the U.S.",
+      "value": 200,
+      "airdate": "2005-11-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 599,
+      "invalid_count": null
+    },
+    {
+      "id": 107914,
+      "answer": "Denver",
+      "question": "Its capitol building stands 5,280 feet above sea level",
+      "value": 400,
+      "airdate": "2005-11-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 599,
+      "invalid_count": null
+    },
+    {
+      "id": 107920,
+      "answer": "Cincinnati",
+      "question": "Believe it or not, Jerry Springer was once the mayor of this large Ohio city",
+      "value": 600,
+      "airdate": "2005-11-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 599,
+      "invalid_count": null
+    },
+    {
+      "id": 107926,
+      "answer": "San Diego",
+      "question": "Founded in 1769, this city near the Mexican border is often called \"The Birthplace of California\"",
+      "value": 800,
+      "airdate": "2005-11-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 599,
+      "invalid_count": null
+    },
+    {
+      "id": 107932,
+      "answer": "Huntsville",
+      "question": "A campus for the University of Alabama is here, nicknamed \"Rocket City, U.S.A.\"",
+      "value": 1000,
+      "airdate": "2005-11-08T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 599,
+      "invalid_count": null
+    },
+    {
+      "id": 112436,
+      "answer": "Joliet",
+      "question": "Perhaps to sound more macho, the town of Juliet, Illinois \"explored\" new names & came up with this one in 1845",
+      "value": 200,
+      "airdate": "2007-02-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1761,
+      "invalid_count": null
+    },
+    {
+      "id": 112442,
+      "answer": "Michigan",
+      "question": "With a name from the Chippewa for \"on the summit\", Ishpeming is a top ski center on the upper peninsula of this state",
+      "value": 400,
+      "airdate": "2007-02-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1761,
+      "invalid_count": null
+    },
+    {
+      "id": 112448,
+      "answer": "Newport",
+      "question": "This New England town's famous \"cottages\" are actually lavish mansions such as Belcourt Castle & Marble House",
+      "value": 600,
+      "airdate": "2007-02-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1761,
+      "invalid_count": null
+    },
+    {
+      "id": 112454,
+      "answer": "Austin",
+      "question": "This state capital has trolleys & buses called 'Dillos that take folks to attractions & music clubs",
+      "value": null,
+      "airdate": "2007-02-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1761,
+      "invalid_count": null
+    },
+    {
+      "id": 112460,
+      "answer": "Baltimore",
+      "question": "In 2006 rival cities got crabby when Men's Fitness magazine named it the fittest city in America",
+      "value": 1000,
+      "airdate": "2007-02-23T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 1761,
+      "invalid_count": null
+    },
+    {
+      "id": 119392,
+      "answer": "Baltimore",
+      "question": "It's called \"Balmo\" or \"Balmer\" for short",
+      "value": 200,
+      "airdate": "2008-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2329,
+      "invalid_count": null
+    },
+    {
+      "id": 119398,
+      "answer": "Seattle",
+      "question": "Seen here, this city boasts a spectacular skyline, especially in the evening",
+      "value": 400,
+      "airdate": "2008-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2329,
+      "invalid_count": null
+    },
+    {
+      "id": 119404,
+      "answer": "Fargo",
+      "question": "This largest North Dakota city was named for a famous businessman",
+      "value": 600,
+      "airdate": "2008-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2329,
+      "invalid_count": null
+    },
+    {
+      "id": 119410,
+      "answer": "Pueblo",
+      "question": "The name of this city that hosts the Colorado State Fair is simply Spanish for \"town\"",
+      "value": 800,
+      "airdate": "2008-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2329,
+      "invalid_count": null
+    },
+    {
+      "id": 119416,
+      "answer": "Brownsville",
+      "question": "One of the last Civil War battles took place near what is now this \"colorful\" city at Texas' southern tip",
+      "value": 1000,
+      "airdate": "2008-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 2329,
+      "invalid_count": null
+    },
+    {
+      "id": 123542,
+      "answer": "Buffalo",
+      "question": "New York State's second-largest city, it's the seat of Erie County",
+      "value": 200,
+      "airdate": "2009-06-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3063,
+      "invalid_count": null
+    },
+    {
+      "id": 123548,
+      "answer": "Charleston",
+      "question": "Jestine's Kitchen is a soulful stop for catfish in this city, home of Catfish Row in story & opera",
+      "value": null,
+      "airdate": "2009-06-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3063,
+      "invalid_count": null
+    },
+    {
+      "id": 123554,
+      "answer": "Amarillo",
+      "question": "The roadside attraction called the Cadillac Ranch is in this Texas city whose name is Spanish for \"yellow\"",
+      "value": 600,
+      "airdate": "2009-06-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3063,
+      "invalid_count": null
+    },
+    {
+      "id": 123560,
+      "answer": "Oakland",
+      "question": "This city near San Francisco grew when it became the western terminus of the Transcontinental Railroad",
+      "value": 800,
+      "airdate": "2009-06-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3063,
+      "invalid_count": null
+    },
+    {
+      "id": 123566,
+      "answer": "Spokane",
+      "question": "It's the biggest city in eastern Washington",
+      "value": 1000,
+      "airdate": "2009-06-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3063,
+      "invalid_count": null
+    },
+    {
+      "id": 135246,
+      "answer": "New Orleans",
+      "question": "Between 2000 & 2007, this city lost half of its 484,674 people; Hurricane Katrina had something to do with it",
+      "value": 200,
+      "airdate": "2009-11-09T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3206,
+      "invalid_count": null
+    },
+    {
+      "id": 135252,
+      "answer": "San Francisco",
+      "question": "This city's Golden Gate Park was built on sand dunes in the late 19th century by architect John McLaren",
+      "value": 400,
+      "airdate": "2009-11-09T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3206,
+      "invalid_count": null
+    },
+    {
+      "id": 135258,
+      "answer": "Buffalo",
+      "question": "This city on Lake Erie in Upstate New York was the last stop on the Underground Railroad in the 19th century",
+      "value": 600,
+      "airdate": "2009-11-09T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3206,
+      "invalid_count": null
+    },
+    {
+      "id": 135264,
+      "answer": "Jacksonville",
+      "question": "This Florida city was first called Cowford but was renamed in 1822 for a man who would soon become president",
+      "value": null,
+      "airdate": "2009-11-09T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3206,
+      "invalid_count": null
+    },
+    {
+      "id": 135270,
+      "answer": "Baltimore, Maryland",
+      "question": "You'll find exhibits pertaining to the War of 1812 at the Star-Spangled Banner Flag House in this city",
+      "value": 1000,
+      "airdate": "2009-11-09T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 3206,
+      "invalid_count": null
+    },
+    {
+      "id": 153808,
+      "answer": "Honolulu",
+      "question": "Completed in 1926, Aloha Tower greets visitors to this city",
+      "value": 200,
+      "airdate": "2013-02-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4072,
+      "invalid_count": null
+    },
+    {
+      "id": 153814,
+      "answer": "Austin",
+      "question": "In recent years this Texas capital has ranked as one of the top U.S. cities for young adults",
+      "value": 400,
+      "airdate": "2013-02-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4072,
+      "invalid_count": null
+    },
+    {
+      "id": 153820,
+      "answer": "Minneapolis",
+      "question": "St. Paul is the twin of this city that's 100,000 people bigger",
+      "value": 600,
+      "airdate": "2013-02-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4072,
+      "invalid_count": null
+    },
+    {
+      "id": 153826,
+      "answer": "Louisiana",
+      "question": "This state's state fair is held in Shreveport",
+      "value": 800,
+      "airdate": "2013-02-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4072,
+      "invalid_count": null
+    },
+    {
+      "id": 153832,
+      "answer": "Williamsburg",
+      "question": "Once Virginia's capital, this city has made sure to keep its colonial feel",
+      "value": 1000,
+      "airdate": "2013-02-04T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4072,
+      "invalid_count": null
+    },
+    {
+      "id": 154576,
+      "answer": "Cincinnati",
+      "question": "We're livin' on the air in this city, home to the 49-story Carew Tower, on the north bank of the Ohio River",
+      "value": 200,
+      "airdate": "2012-12-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4044,
+      "invalid_count": null
+    },
+    {
+      "id": 154582,
+      "answer": "Tampa",
+      "question": "This Southern city was the site of the 2012 Republican National Convention",
+      "value": 400,
+      "airdate": "2012-12-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4044,
+      "invalid_count": null
+    },
+    {
+      "id": 154588,
+      "answer": "Cleveland",
+      "question": "This city's metro area includes Lorain, Lake & Cuyahoga; visit 'em all!",
+      "value": 600,
+      "airdate": "2012-12-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4044,
+      "invalid_count": null
+    },
+    {
+      "id": 154594,
+      "answer": "Tulsa",
+      "question": "The art deco-style Union Depot & Phillips Oil \"Philcade\" suit this city in Oklahoma to a \"T\"",
+      "value": 800,
+      "airdate": "2012-12-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4044,
+      "invalid_count": null
+    },
+    {
+      "id": 154600,
+      "answer": "Syracuse",
+      "question": "Orange you glad to know this city in Central New York supplied most of the salt needs of the U.S. until 1870",
+      "value": 1000,
+      "airdate": "2012-12-28T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4044,
+      "invalid_count": null
+    },
+    {
+      "id": 160324,
+      "answer": "Green Bay",
+      "question": "With a population of 104,000, this city indicated on the map is the smallest to boast an NFL franchise.",
+      "value": 200,
+      "airdate": "2014-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4426,
+      "invalid_count": null
+    },
+    {
+      "id": 160330,
+      "answer": "St. Louis",
+      "question": "This city seen here is its state's second largest.",
+      "value": 400,
+      "airdate": "2014-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4426,
+      "invalid_count": null
+    },
+    {
+      "id": 160336,
+      "answer": "Birmingham",
+      "question": "Courteney Cox & Fannie Flagg both hail from this most populous Alabama city",
+      "value": 600,
+      "airdate": "2014-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4426,
+      "invalid_count": null
+    },
+    {
+      "id": 160342,
+      "answer": "Ohio",
+      "question": "From 1810 to 1812 Zanesville was the capital of this state",
+      "value": 800,
+      "airdate": "2014-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4426,
+      "invalid_count": null
+    },
+    {
+      "id": 160348,
+      "answer": "Johnstown",
+      "question": "A memorial on the site of the former South Fork Dam commemorates the devastating flood in this Pennsylvania city",
+      "value": 1000,
+      "airdate": "2014-02-14T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4426,
+      "invalid_count": null
+    },
+    {
+      "id": 169315,
+      "answer": "Las Vegas",
+      "question": "The bright lights of this city are seen here",
+      "value": 200,
+      "airdate": "2014-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4711,
+      "invalid_count": null
+    },
+    {
+      "id": 169321,
+      "answer": "Lexington",
+      "question": "Mary Todd Lincoln was born in this Kentucky city, now a major center for horse breeding",
+      "value": 400,
+      "airdate": "2014-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4711,
+      "invalid_count": null
+    },
+    {
+      "id": 169327,
+      "answer": "Birmingham",
+      "question": "That's a statue of Vulcan in this Alabama city",
+      "value": 600,
+      "airdate": "2014-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4711,
+      "invalid_count": null
+    },
+    {
+      "id": 169333,
+      "answer": "St. Louis",
+      "question": "The Olympics were held in the U.S. for the first time in 1904, hosted by this city that was also holding the World's Fair",
+      "value": 800,
+      "airdate": "2014-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4711,
+      "invalid_count": null
+    },
+    {
+      "id": 169339,
+      "answer": "Pittsburgh",
+      "question": "British general John Forbes named this city for a certain William the Elder",
+      "value": null,
+      "airdate": "2014-10-27T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 4711,
+      "invalid_count": null
+    },
+    {
+      "id": 193008,
+      "answer": "Chicago",
+      "question": "It's the \"City of Big Shoulders\" as well as the \"Windy City\"",
+      "value": 200,
+      "airdate": "2019-03-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6243,
+      "invalid_count": null
+    },
+    {
+      "id": 193014,
+      "answer": "San Francisco",
+      "question": "Seen here is an aerial view of the very curvy Lombard Street in this West Coast city",
+      "value": 400,
+      "airdate": "2019-03-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6243,
+      "invalid_count": null
+    },
+    {
+      "id": 193020,
+      "answer": "Ann Arbor",
+      "question": "A type of oak tree appears on the official seal of this city where the Wolverines play their home games",
+      "value": 600,
+      "airdate": "2019-03-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6243,
+      "invalid_count": null
+    },
+    {
+      "id": 193026,
+      "answer": "Huntsville",
+      "question": "The U.S. Space & Rocket Center in this Alabama city has one of the world's largest collections of space memorabilia",
+      "value": 800,
+      "airdate": "2019-03-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6243,
+      "invalid_count": null
+    },
+    {
+      "id": 193032,
+      "answer": "Bridgeport",
+      "question": "P.T. Barnum was once the mayor of this most populous Connecticut city",
+      "value": 1000,
+      "airdate": "2019-03-19T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6243,
+      "invalid_count": null
+    },
+    {
+      "id": 195614,
+      "answer": "Nashville",
+      "question": "Country music fans get to meet & hear their favorite artists at the annual CMA Festival in this city--where else?",
+      "value": 200,
+      "airdate": "2018-11-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6145,
+      "invalid_count": null
+    },
+    {
+      "id": 195620,
+      "answer": "Seattle",
+      "question": "There's no mistaking this city's skyline as seen at twilight",
+      "value": 400,
+      "airdate": "2018-11-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6145,
+      "invalid_count": null
+    },
+    {
+      "id": 195626,
+      "answer": "Kansas City, Kansas",
+      "question": "KCK stands for this city just beyond the Missouri state line",
+      "value": 600,
+      "airdate": "2018-11-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6145,
+      "invalid_count": null
+    },
+    {
+      "id": 195632,
+      "answer": "Montpelier",
+      "question": "This New England capital shares its name with James Madison's Virginia plantation",
+      "value": null,
+      "airdate": "2018-11-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6145,
+      "invalid_count": null
+    },
+    {
+      "id": 195638,
+      "answer": "Phoenix",
+      "question": "In 1950 this Southwest city ranked 99th in population; by 2010 it had risen from the ashes to No. 6",
+      "value": 1000,
+      "airdate": "2018-11-12T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6145,
+      "invalid_count": null
+    },
+    {
+      "id": 204340,
+      "answer": "Detroit",
+      "question": "It's been called Fordtown as well as the Motor City",
+      "value": 200,
+      "airdate": "2021-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7027,
+      "invalid_count": null
+    },
+    {
+      "id": 204346,
+      "answer": "El Paso",
+      "question": "This city on the Rio Grande is the sister city of Juarez, Mexico",
+      "value": 400,
+      "airdate": "2021-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7027,
+      "invalid_count": null
+    },
+    {
+      "id": 204352,
+      "answer": "Gainesville",
+      "question": "The Florida Museum of Natural History is located in this university city, right on the campus",
+      "value": 600,
+      "airdate": "2021-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7027,
+      "invalid_count": null
+    },
+    {
+      "id": 204358,
+      "answer": "Henderson",
+      "question": "Nevada's second-most populous city & one of the country's fastest growing is this community just southeast of Las Vegas",
+      "value": 800,
+      "airdate": "2021-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7027,
+      "invalid_count": null
+    },
+    {
+      "id": 204364,
+      "answer": "Danbury",
+      "question": "Once a hat-making center, today this Connecticut city is known for its federal low-security facility housing female inmates",
+      "value": 1000,
+      "airdate": "2021-05-20T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7027,
+      "invalid_count": null
+    },
+    {
+      "id": 206307,
+      "answer": "San Francisco",
+      "question": "Fun places to visit in this California city include the Exploratorium & Ghiradelli Square",
+      "value": 200,
+      "airdate": "2021-02-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6944,
+      "invalid_count": null
+    },
+    {
+      "id": 206313,
+      "answer": "Lancaster",
+      "question": "Once the state capital, this city in the heart of Pennsylvania Dutch Country ranks as one of the best places to retire",
+      "value": 400,
+      "airdate": "2021-02-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6944,
+      "invalid_count": null
+    },
+    {
+      "id": 206319,
+      "answer": "Charleston",
+      "question": "West Virginia's capital & this Carolina port city of the same name are about 500 miles apart & named for different people",
+      "value": 600,
+      "airdate": "2021-02-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6944,
+      "invalid_count": null
+    },
+    {
+      "id": 206325,
+      "answer": "La Crosse",
+      "question": "Named for a Native American game, it's Wisconsin's largest city on the Mississippi",
+      "value": null,
+      "airdate": "2021-02-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6944,
+      "invalid_count": null
+    },
+    {
+      "id": 206331,
+      "answer": "Fairbanks",
+      "question": "This city north of Anchorage rivals Juneau as Alaska's second-most populous city",
+      "value": 1000,
+      "airdate": "2021-02-17T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 6944,
+      "invalid_count": null
+    },
+    {
+      "id": 209854,
+      "answer": "Detroit",
+      "question": "Things found in this city: The Joe Louis Fist statue as well as Ford Field",
+      "value": 200,
+      "airdate": "2022-07-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7402,
+      "invalid_count": null
+    },
+    {
+      "id": 209860,
+      "answer": "Chicago",
+      "question": "Wacker Drive is an impressive double-decker street in this city of big shoulders",
+      "value": 400,
+      "airdate": "2022-07-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7402,
+      "invalid_count": null
+    },
+    {
+      "id": 209866,
+      "answer": "Pittsburgh",
+      "question": "Heinz Hall for the Performing Arts is home to this city's symphony orchestra",
+      "value": 600,
+      "airdate": "2022-07-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7402,
+      "invalid_count": null
+    },
+    {
+      "id": 209872,
+      "answer": "Salt Lake City",
+      "question": "At the foot of the Wasatch Range, this capital city was built on the bed of ancient Lake Bonneville",
+      "value": null,
+      "airdate": "2022-07-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7402,
+      "invalid_count": null
+    },
+    {
+      "id": 209878,
+      "answer": "Fairbanks",
+      "question": "Named for a V.P. from Indiana, this Alaska city is home to the Goldpanners, who play an annual Midnight Sun Game at 10 P.M.",
+      "value": 1000,
+      "airdate": "2022-07-01T12:00:00.000Z",
+      "category_id": 1,
+      "game_id": 7402,
+      "invalid_count": null
+    }
+  ]
+}

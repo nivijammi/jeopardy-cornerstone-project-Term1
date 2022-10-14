@@ -6,6 +6,7 @@ import java.util.List;
 public class Clues {
 
     public Clues(List<Clue> clues) {
+
         this.clues = clues;
     }
 

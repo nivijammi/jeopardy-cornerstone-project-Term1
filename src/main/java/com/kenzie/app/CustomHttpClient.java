@@ -19,7 +19,7 @@ import java.util.List;
 public class CustomHttpClient {
 
     //TODO: Write sendGET method that takes URL and returns response
-    //base URL is set as constant
+
     //public static final String CLUE_API_GET_URL = "https://jservice.kenzie.academy/api/clues";
 
     public String sendGET(String url)  {
@@ -51,16 +51,17 @@ public class CustomHttpClient {
         }
 
     }
-    public List<Clue> formatClueOutput(String httpResponseBody) throws JsonProcessingException {
+    public Clues deserializeJsonStringToJava(String cluesStringJsonResponse) throws JsonProcessingException {
 
         //System.out.println("This is the JSON response: "+httpResponseBody);
         ObjectMapper objectMapper = new ObjectMapper();
         TypeReference<Clues> typeReferenceListClues =  new TypeReference<>(){};
 
         //typeReferenceList gives information to ObjectMapper,so it knows how to break parse the JSON
-        //List<Clue> clues = objectMapper.readValue(httpResponseBody,typeReferenceListClues);
-        Clues clues = objectMapper.readValue(httpResponseBody,typeReferenceListClues);
-        return clues.getClues();
+        // cluesDTO
+        Clues cluesObject = objectMapper.readValue(cluesStringJsonResponse,typeReferenceListClues);
+
+        return cluesObject;
     }
 
     // Created because the data from the API was not available
@@ -155,9 +156,17 @@ public class CustomHttpClient {
 
     public List<Clue> getAllClues(String url) {
         try {
-            String allCluesStringJsonResponse = sendGET(url);
-            List<Clue> clues = formatClueOutput(allCluesStringJsonResponse);
-            System.out.println("This is the size of the list: "+ clues.size());
+            // Input: url string,   Output: httpResponseBody as string
+            // Returns the http response body as a string [json formatted string]
+            String cluesStringJsonResponse = sendGET(url);
+
+            // Input - httpResponseBody as string , Output clues DTO
+            // Return me a clues DTO object
+            Clues cluesDto = deserializeJsonStringToJava(cluesStringJsonResponse);
+
+            // Extract list of clue - clues
+            List<Clue> clues = cluesDto.getClues();
+            //System.out.println("This is the size of the list: "+ clues.size());
             return clues;
         } catch (JsonProcessingException e) {
             throw new RuntimeException(e);

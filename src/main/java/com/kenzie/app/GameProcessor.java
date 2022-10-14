@@ -1,23 +1,36 @@
 package com.kenzie.app;
 
 import com.kenzie.app.dto.Clue;
-
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 import java.util.Scanner;
 
 public class GameProcessor {
 
+    int round = 1;
+    int score = 0;
+    int questionNumber = 1;
+    int correctAnswers = 0;
+    int incorrectAnswers = 0;
+
+
+
+
     // randomize the list
-    public Clue randomClue(List<Clue>clues){
-        Random random = new Random();
-        //todo- check range
-        int randomElement = random.nextInt(clues.size());
-        Clue randomClue = clues.get(randomElement);
-        System.out.println("-------------------------");
-        System.out.println(randomClue);
-        return randomClue;
+    public Clue randomClue(List<Clue> clues){
+        Clue singleRandomClue = null;
+        //System.out.println("The size of clues List is: " + clues.size());
+
+        if(clues.size() > 0) { // 100
+            //int randomIndex = random.nextInt(clues.size());
+            int randomIndex = RandomNumberGenerator.getNextInt(clues.size()); // 100 will return 0+1 to (clues.size()-1) +1
+            singleRandomClue = clues.get(randomIndex);
+            System.out.println("-------------------------");
+            clues.remove(randomIndex);
+            System.out.println(singleRandomClue);
+            return singleRandomClue;
+        }else{
+            throw new CustomEmptyListException("All clues have been used");
+        }
     }
 
     // Present a single question to the user
@@ -25,7 +38,7 @@ public class GameProcessor {
         String categoryTitle = randomClue.getCategory().getTitle();
         String question = randomClue.getQuestion();
         System.out.println("Your category is: "+ categoryTitle);
-        System.out.println( "Question number is: "+ question);
+        System.out.println( "Your question is: "+ question);
 
     }
 
@@ -34,7 +47,7 @@ public class GameProcessor {
         String answer = "";
         System.out.print("Type in your answer: ");
         answer = scanner.nextLine();
-        System.out.print(answer);
+        //System.out.print(answer);
         System.out.println();
         return answer;
     }
@@ -55,26 +68,38 @@ public class GameProcessor {
         // List<Clue> cluess = client.getAllClues();
 
         Scanner scanner = new Scanner(System.in);
-        int round = 1;
+        //int questionNumber = 1;
         int counter = 0;
-        int correctAnswers = 0;
-        int incorrectAnswers = 0;
-        int score = 0;
+        Clue clue = null;
 
+        System.out.println("Round: " + round);
         while(counter < 10){
+
             // Random clue
-            Clue clue = randomClue(clues);
+            try {
+                clue = randomClue(clues);
+            }catch(CustomEmptyListException e){
+                System.out.println(e.getMessage());
+                return;
+            }catch (Exception e){
+                System.out.println(e.getMessage());
+                return;
+            }
+
             // Random question
-            System.out.println("Round number " + round);
+            System.out.println("Question number " + questionNumber);
+            assert clue != null;
             printQuestion(clue);
+
             // Collect user-answer
             String actualAnswer = collectAnswer(scanner);
+
             // Evaluate answer
             String expectedAnswer = clue.getAnswer();
             Boolean isAnswerCorrect = checkForCorrectAnswers(expectedAnswer,actualAnswer);
             //System.out.println(isAnswerCorrect);
 
-            if(isAnswerCorrect == true){
+            if(isAnswerCorrect){
                 correctAnswers++;
                 score++;
                 System.out.println("Your answer is correct!");
@@ -82,30 +107,33 @@ public class GameProcessor {
                 System.out.println("Sorry! That is incorrect! The correct answer is " + expectedAnswer);
                 incorrectAnswers++;
             }
-            round++;
+            questionNumber++;
             counter++;
 
         }
-
         System.out.println("==================================================");
-
-
         // Display final results
         displayResults(correctAnswers, incorrectAnswers,score);
 
         // Prompt the user to play again
         System.out.print("\n");
+        System.out.println("=================================");
         System.out.print("Would you like to play again (Y/N)? ");
+        System.out.print("\n");
+        round++;
         String response = scanner.nextLine();
         if(response.trim().equalsIgnoreCase("Y")){ // " Y "
-            play(clues);
+            play(clues); //recursive call
         }else{
             System.out.println("\nEnd of Program");
             //System.exit(0);
         }
+
+
+
     }
 
-    private void displayResults(int correctAnswers, int incorrectAnswers, int score) {
+    public void displayResults(int correctAnswers, int incorrectAnswers, int score) {
         String gameStatus = "";
         System.out.print("\n");
         System.out.print("\t===== DISPLAY RESULTS =====");

@@ -18,15 +18,20 @@ public class Main {
        - The rest is up to you. Good luck and happy coding!
 
      */
+    //base URL is set as constant
     public static final String CLUE_API_GET_URL = "https://jservice.kenzie.academy/api/clues";
     public static void main(String[] args)  {
 
+        // Created an HttpClient to send request an
         CustomHttpClient client = new CustomHttpClient();
-        //List<Clue> clues = client.getMockedClues(); // Mocked Response
-        //System.out.println(clues);
 
         List<Clue> clues = client.getAllClues(CLUE_API_GET_URL);
         //System.out.println(clues);
+
+        // Mocked Response to test the GameProcessor
+        //List<Clue> clues = client.getMockedClues(); // Mocked Response
+        //System.out.println(clues);
+
         GameProcessor game = new GameProcessor();
         game.play(clues);
     }

@@ -26,7 +26,8 @@ public class Main {
         CustomHttpClient client = new CustomHttpClient();
 
         List<Clue> clues = client.getAllClues(CLUE_API_GET_URL);
-        //System.out.println(clues);
+
+        System.out.println(clues);
 
         // Mocked Response to test the GameProcessor
         //List<Clue> clues = client.getMockedClues(); // Mocked Response

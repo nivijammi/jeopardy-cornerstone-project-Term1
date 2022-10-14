@@ -13,17 +13,21 @@ public class GameProcessor {
     int incorrectAnswers = 0;
 
 
-
-
     // randomize the list
     public Clue randomClue(List<Clue> clues){
-        Clue singleRandomClue = null;
+
+        //System.out.println("This is clue at 0 " + clues.get(0));
+        //System.out.println("This is clue at 99 " + clues.get(99));
+
+        Clue singleRandomClue;
         //System.out.println("The size of clues List is: " + clues.size());
 
         if(clues.size() > 0) { // 100
             //int randomIndex = random.nextInt(clues.size());
-            int randomIndex = RandomNumberGenerator.getNextInt(clues.size()); // 100 will return 0+1 to (clues.size()-1) +1
+            int randomIndex = RandomNumberGenerator.getNextInt(clues.size());
+            //System.out.println("This is randomIndex: " + randomIndex);
             singleRandomClue = clues.get(randomIndex);
+
             System.out.println("-------------------------");
             clues.remove(randomIndex);
             System.out.println(singleRandomClue);
@@ -38,15 +42,14 @@ public class GameProcessor {
         String categoryTitle = randomClue.getCategory().getTitle();
         String question = randomClue.getQuestion();
         System.out.println("Your category is: "+ categoryTitle);
-        System.out.println( "Your question is: "+ question);
-
+        System.out.println("Your question is: "+ question);
     }
 
     // Prompt the user to answer
     public String collectAnswer(Scanner scanner){
-        String answer = "";
+
         System.out.print("Type in your answer: ");
-        answer = scanner.nextLine();
+        String answer = scanner.nextLine();
         //System.out.print(answer);
         System.out.println();
         return answer;
@@ -55,22 +58,16 @@ public class GameProcessor {
     // Determine if the user's answer was correct
     public Boolean checkForCorrectAnswers(String expectedAnswer, String actualAnswer) {
 
-        if(expectedAnswer.equalsIgnoreCase(actualAnswer)){
-            return true;
-        }
+        return expectedAnswer.equalsIgnoreCase(actualAnswer);
         //System.out.println("The expected answer was: "+ expectedAnswer);
-        return false;
     }
 
     public void play(List<Clue> clues) {
-        // List<Clue> clues = getAllClues();
-        // ClueApiHttpClient client = new ClueApiHttpClient();
-        // List<Clue> cluess = client.getAllClues();
 
         Scanner scanner = new Scanner(System.in);
         //int questionNumber = 1;
         int counter = 0;
-        Clue clue = null;
+        Clue clue;
 
         System.out.println("Round: " + round);
         while(counter < 10){
@@ -79,9 +76,6 @@ public class GameProcessor {
             try {
                 clue = randomClue(clues);
             }catch(CustomEmptyListException e){
-                System.out.println(e.getMessage());
-                return;
-            }catch (Exception e){
                 System.out.println(e.getMessage());
                 return;
             }
@@ -119,9 +113,11 @@ public class GameProcessor {
         System.out.print("\n");
         System.out.println("=================================");
         System.out.print("Would you like to play again (Y/N)? ");
-        System.out.print("\n");
-        round++;
         String response = scanner.nextLine();
+        System.out.println("==================================");
+        if (round<10) {
+            round++;
+        }
         if(response.trim().equalsIgnoreCase("Y")){ // " Y "
             play(clues); //recursive call
         }else{
@@ -134,7 +130,7 @@ public class GameProcessor {
     }
 
     public void displayResults(int correctAnswers, int incorrectAnswers, int score) {
-        String gameStatus = "";
+        String gameStatus;
         System.out.print("\n");
         System.out.print("\t===== DISPLAY RESULTS =====");
         System.out.print("\n");
@@ -143,7 +139,7 @@ public class GameProcessor {
         System.out.println("\n Total score: "+ score);
         if(correctAnswers > incorrectAnswers){
             gameStatus = "YOU WON";
-            System.out.println("\n Congratulations! " + gameStatus + " this round.");
+            System.out.println("\n Congratulations! " + gameStatus);
         }else {
             gameStatus = "\n TRY AGAIN!";
             System.out.println(gameStatus);

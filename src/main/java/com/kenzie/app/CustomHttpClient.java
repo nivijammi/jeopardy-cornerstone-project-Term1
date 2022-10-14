@@ -41,8 +41,7 @@ public class CustomHttpClient {
             HttpResponse<String> httpResponse = client.send(request, HttpResponse.BodyHandlers.ofString());
             int statusCode = httpResponse.statusCode();
             if (statusCode == 200) {
-                String response = httpResponse.body();
-                return response;
+                return httpResponse.body();
             } else {
                 return String.format("GET request failed: %d status code received", statusCode);
             }
@@ -150,7 +149,7 @@ public class CustomHttpClient {
         clue7.setCategory(category7);
         clues.add(clue7);
 
-        System.out.println(clues.toString());
+        System.out.println(clues);
         return clues;
     }
 

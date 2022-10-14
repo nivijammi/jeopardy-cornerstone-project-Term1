@@ -1,7 +1,6 @@
 package com.kenzie.app;
 
 import com.kenzie.app.dto.Clue;
-
 import java.util.List;
 import java.util.Scanner;
 
@@ -14,7 +13,7 @@ public class GameProcessor {
     int incorrectAnswers = 0;
 
 
-    // randomize the list
+    // Step 1: Generate a single random clue
     public Clue randomClue(List<Clue> clues) {
 
         //System.out.println("This is clue at 0 " + clues.get(0));
@@ -38,7 +37,7 @@ public class GameProcessor {
         }
     }
 
-    // Present a single question to the user
+    // Step 2: Present a single question with category to the user
     public void printQuestion(Clue randomClue) {
         String categoryTitle = randomClue.getCategory().getTitle();
         String question = randomClue.getQuestion();
@@ -46,7 +45,7 @@ public class GameProcessor {
         System.out.println("Your question is: " + question);
     }
 
-    // Prompt the user to answer
+    // Step 3: Prompt the user to answer the question
     public String collectAnswer(Scanner scanner) {
 
         System.out.print("Type in your answer: ");
@@ -56,7 +55,7 @@ public class GameProcessor {
         return answer;
     }
 
-    // Determine if the user's answer was correct
+    // Step 4: Determine if the user's answer was correct
     public Boolean checkForCorrectAnswers(String expectedAnswer, String actualAnswer) {
 
         return expectedAnswer.equalsIgnoreCase(actualAnswer);
@@ -66,14 +65,12 @@ public class GameProcessor {
     public void play(List<Clue> clues) {
 
         Scanner scanner = new Scanner(System.in);
-        //int questionNumber = 1;
         int counter = 0;
         Clue clue;
 
         System.out.println("Round: " + round);
         while (counter < 10) {
-
-            // Random clue
+            // call for a random clue
             try {
                 clue = randomClue(clues);
             } catch (CustomEmptyListException e) {
@@ -81,19 +78,19 @@ public class GameProcessor {
                 return;
             }
 
-            // Random question
+            // call to print the random question
             System.out.println("Question number " + questionNumber);
             assert clue != null;
             printQuestion(clue);
 
-            // Collect user-answer
+            // call to collect user-answer
             String actualAnswer = collectAnswer(scanner);
 
-            // Evaluate answer
+            // call to evaluate user's answer with expected answer
             String expectedAnswer = clue.getAnswer();
             Boolean isAnswerCorrect = checkForCorrectAnswers(expectedAnswer, actualAnswer);
-            //System.out.println(isAnswerCorrect);
 
+            // Step 5: update current score
             if (isAnswerCorrect) {
                 correctAnswers++;
                 score++;
@@ -107,10 +104,10 @@ public class GameProcessor {
 
         }
         System.out.println("==================================================");
-        // Display final results
+        // Step 6(b): call to display the score
         displayResults(correctAnswers, incorrectAnswers, score);
 
-        // Prompt the user to play again
+        // Step 7: Prompt the user to play again
         System.out.print("\n");
         System.out.println("=================================");
         System.out.print("Would you like to play again (Y/N)? ");
@@ -123,12 +120,11 @@ public class GameProcessor {
             play(clues); //recursive call
         } else {
             System.out.println("\nEnd of Program");
-            //System.exit(0);
         }
 
 
     }
-
+    // Step 6: Display the score
     public void displayResults(int correctAnswers, int incorrectAnswers, int score) {
         String gameStatus;
         System.out.print("\n");

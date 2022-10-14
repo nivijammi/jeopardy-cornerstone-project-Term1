@@ -65,7 +65,7 @@ public class CustomHttpClient {
         return cluesObject;
     }
 
-    // Created because the data from the API was not available
+    // Mocked responses to test GameProcessor
     public List<Clue> getMockedClues() {
         List<Clue> clues = new ArrayList<>();
 
@@ -173,5 +173,6 @@ public class CustomHttpClient {
             throw new RuntimeException(e);
         }
     }
+
 }
 

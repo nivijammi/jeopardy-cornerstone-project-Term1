@@ -5,18 +5,19 @@ import java.util.Random;
 import java.util.Set;
 
 /**
- * This class is just to test Random
+ * This class tests and generates a random Number
  */
 public class RandomNumberGenerator {
     static Random random = new Random();
 
+    // to test  for unique random numbers
     public static void printRandomNumbers() {
         Set<Integer> set = new HashSet<>();
         for (int i = 0; i < 99; i++) {
             int randomIndex = getNextInt(100);//
             System.out.print(randomIndex + " ");
             if (set.contains(randomIndex))
-                System.out.print(" [dup " + i + "] ");
+                System.out.print(" [duplicates " + i + "] ");
             else
                 set.add(randomIndex);
         }
@@ -27,7 +28,4 @@ public class RandomNumberGenerator {
         return random.nextInt(bound);
     }
 
-//    public static void main(String[] args) {
-//        printRandomNumbers();
-//    }
 }

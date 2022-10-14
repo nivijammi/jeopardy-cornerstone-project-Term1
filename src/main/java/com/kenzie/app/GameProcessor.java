@@ -96,7 +96,7 @@ public class GameProcessor {
                 score++;
                 System.out.println("Your answer is correct!");
             } else {
-                System.out.println("Sorry! That is incorrect! The correct answer is " + expectedAnswer);
+                System.out.println("Sorry! That is incorrect! The correct answer is: " + expectedAnswer);
                 incorrectAnswers++;
             }
             questionNumber++;

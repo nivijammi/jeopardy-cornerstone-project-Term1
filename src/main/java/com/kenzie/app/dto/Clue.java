@@ -1,7 +1,7 @@
 package com.kenzie.app.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.kenzie.app.foo.Game;
+
 
 public class Clue {
 

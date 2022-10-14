@@ -20,7 +20,8 @@ public class Main {
      */
     //base URL is set as constant
     public static final String CLUE_API_GET_URL = "https://jservice.kenzie.academy/api/clues";
-    public static void main(String[] args)  {
+
+    public static void main(String[] args) {
 
         // Created an HttpClient to send request an
         CustomHttpClient client = new CustomHttpClient();
@@ -37,7 +38,7 @@ public class Main {
         game.play(clues);
     }
 
-    public void scratch(){
+    public void scratch() {
         //        List<Clue>clues = game.getAllClues();
         //        // Random clue
         //        Clue clue = game.randomClue(clues);

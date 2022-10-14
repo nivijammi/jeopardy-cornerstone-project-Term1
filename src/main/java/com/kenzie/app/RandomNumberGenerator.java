@@ -12,11 +12,11 @@ public class RandomNumberGenerator {
 
     public static void printRandomNumbers() {
         Set<Integer> set = new HashSet<>();
-        for (int i= 0 ; i< 99; i++){
+        for (int i = 0; i < 99; i++) {
             int randomIndex = getNextInt(100);//
-            System.out.print(randomIndex +" ");
+            System.out.print(randomIndex + " ");
             if (set.contains(randomIndex))
-                System.out.print(" [dup " +i +"] ");
+                System.out.print(" [dup " + i + "] ");
             else
                 set.add(randomIndex);
         }

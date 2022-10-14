@@ -22,7 +22,7 @@ public class CustomHttpClient {
 
     //public static final String CLUE_API_GET_URL = "https://jservice.kenzie.academy/api/clues";
 
-    public String sendGET(String url)  {
+    public String sendGET(String url) {
 
         //** Start of GET request algorithm
         //create a new HTTP client
@@ -50,21 +50,23 @@ public class CustomHttpClient {
         }
 
     }
+
     public Clues deserializeJsonStringToJava(String cluesStringJsonResponse) throws JsonProcessingException {
 
         //System.out.println("This is the JSON response: "+httpResponseBody);
         ObjectMapper objectMapper = new ObjectMapper();
-        TypeReference<Clues> typeReferenceListClues =  new TypeReference<>(){};
+        TypeReference<Clues> typeReferenceListClues = new TypeReference<>() {
+        };
 
         //typeReferenceList gives information to ObjectMapper,so it knows how to break parse the JSON
         // cluesDTO
-        Clues cluesObject = objectMapper.readValue(cluesStringJsonResponse,typeReferenceListClues);
+        Clues cluesObject = objectMapper.readValue(cluesStringJsonResponse, typeReferenceListClues);
 
         return cluesObject;
     }
 
     // Created because the data from the API was not available
-    public  List<Clue> getMockedClues(){
+    public List<Clue> getMockedClues() {
         List<Clue> clues = new ArrayList<>();
 
         Clue clue1 = new Clue();
@@ -129,7 +131,7 @@ public class CustomHttpClient {
 
         Clue clue6 = new Clue();
         clue6.setId(6);
-        clue6.setQuestion( "Made of metal, they consist of a point, a shank \u0026 a head, \u0026 are measured in pennies or inches");
+        clue6.setQuestion("Made of metal, they consist of a point, a shank \u0026 a head, \u0026 are measured in pennies or inches");
         clue6.setAnswer("nails");
         Category category6 = new Category();
         category6.setTitle("trivia");
